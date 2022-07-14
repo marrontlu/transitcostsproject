@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "xiamen-line-2-phase-2-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n7089628638", "osm_id": "7089628638", "osm_type": "node", "name": "Maqing Road", "name:en": "Maqing Road", "public_transport": "stop_position", "subway": "yes", "railway": "stop", "station": "", "wikidata": "", "name:zh": "马青路" }, "geometry": { "type": "Point", "coordinates": [ 118.024906, 24.4968259 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Maluanbei", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null, "wikidata": null, "name:zh": null }, "geometry": { "type": "Point", "coordinates": [ 117.95696127900014, 24.553112084270342 ] } },
+{ "type": "Feature", "properties": { "full_id": "n7089628636", "osm_id": "7089628636", "osm_type": "node", "name": "Wengjiao Road", "name:en": "Wengjiao Road", "public_transport": "stop_position", "subway": "yes", "railway": "stop", "station": "", "wikidata": "", "name:zh": "翁角路" }, "geometry": { "type": "Point", "coordinates": [ 118.0096811, 24.5288972 ] } },
+{ "type": "Feature", "properties": { "full_id": "n7089628634", "osm_id": "7089628634", "osm_type": "node", "name": "Xin'an", "name:en": "Xin'an", "public_transport": "stop_position", "subway": "yes", "railway": "stop", "station": "", "wikidata": "", "name:zh": "新垵" }, "geometry": { "type": "Point", "coordinates": [ 118.0000071, 24.5338393 ] } },
+{ "type": "Feature", "properties": { "full_id": "n7089628633", "osm_id": "7089628633", "osm_type": "node", "name": "Xinyang Avenue", "name:en": "Xinyang Avenue", "public_transport": "stop_position", "subway": "yes", "railway": "stop", "station": "", "wikidata": "", "name:zh": "新阳大道" }, "geometry": { "type": "Point", "coordinates": [ 117.9906565, 24.5402247 ] } },
+{ "type": "Feature", "properties": { "full_id": "n7089227399", "osm_id": "7089227399", "osm_type": "node", "name": "Tianzhushan", "name:en": "Tianzhushan", "public_transport": "stop_position", "subway": "yes", "railway": "stop", "station": "", "wikidata": "", "name:zh": "天竺山" }, "geometry": { "type": "Point", "coordinates": [ 117.9323379, 24.5817126 ] } },
+{ "type": "Feature", "properties": { "full_id": "n7089628630", "osm_id": "7089628630", "osm_type": "node", "name": "Dongfu", "name:en": "Dongfu", "public_transport": "stop_position", "subway": "yes", "railway": "stop", "station": "", "wikidata": "", "name:zh": "东孚" }, "geometry": { "type": "Point", "coordinates": [ 117.942916, 24.5693116 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Maluan West", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null, "wikidata": null, "name:zh": null }, "geometry": { "type": "Point", "coordinates": [ 117.969322023269527, 24.550025330066656 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Maluanzhongxin", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null, "wikidata": null, "name:zh": null }, "geometry": { "type": "Point", "coordinates": [ 117.98265845123926, 24.548900165872297 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "kunming-line-1-feeder-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Shijixingzhengzhongxin", "name:en": null, "name:zh": null, "network": null, "network:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "transport": null, "wikidata": null, "description": null, "access": null }, "geometry": { "type": "Point", "coordinates": [ 102.835240786127272, 24.885311619176992 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Yihe Road", "name:en": null, "name:zh": null, "network": null, "network:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "transport": null, "wikidata": null, "description": null, "access": null }, "geometry": { "type": "Point", "coordinates": [ 102.843489472899819, 24.887845056291876 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Bailongtan", "name:en": null, "name:zh": null, "network": null, "network:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "transport": null, "wikidata": null, "description": null, "access": null }, "geometry": { "type": "Point", "coordinates": [ 102.850315756315624, 24.877810682069644 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Kunming South Railway Station", "name:en": null, "name:zh": null, "network": null, "network:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "transport": null, "wikidata": null, "description": null, "access": null }, "geometry": { "type": "Point", "coordinates": [ 102.859363626640118, 24.873133971802162 ] } }
+]
+}

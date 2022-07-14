@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "sanjose-bart-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1111, "name": "28th Street\/Little Portugal" }, "geometry": { "type": "Point", "coordinates": [ -121.865228926210008, 37.350671763082055 ] } },
+{ "type": "Feature", "properties": { "id": 111112, "name": "Downtown San Jose" }, "geometry": { "type": "Point", "coordinates": [ -121.89063784114559, 37.335987861863337 ] } },
+{ "type": "Feature", "properties": { "id": 111122, "name": "San Jose Diridon" }, "geometry": { "type": "Point", "coordinates": [ -121.904397120190495, 37.33124529145087 ] } },
+{ "type": "Feature", "properties": { "id": 111233, "name": "Santa Clara" }, "geometry": { "type": "Point", "coordinates": [ -121.939413807562516, 37.355601676782513 ] } }
+]
+}

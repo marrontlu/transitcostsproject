@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "xi'an-line-2-phase-2-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Zhengyangdadao", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 108.943141137851072, 34.395820244810686 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Caotanbei", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 108.956878230824842, 34.401184119840224 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Hejiaying", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 108.936224119913746, 34.13156451776856 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Changning", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 108.933736064848461, 34.10866566622763 ] } }
+]
+}

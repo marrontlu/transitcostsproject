@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "changsha-line-2-west-extension-phase-1-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n4045274479", "osm_id": "4045274479", "osm_type": "node", "name": "Culture and Arts Center", "name:en": "Culture and Arts Center", "public_transport": "stop_position", "railway": "station", "station": "subway", "subway": "yes", "wikidata": "", "access": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 112.8951163, 28.2002724 ] } },
+{ "type": "Feature", "properties": { "full_id": "n4045274477", "osm_id": "4045274477", "osm_type": "node", "name": "West Meixi Lake", "name:en": "West Meixi Lake", "public_transport": "stop_position", "railway": "station", "station": "subway", "subway": "yes", "wikidata": "", "access": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 112.876541, 28.1894571 ] } },
+{ "type": "Feature", "properties": { "full_id": "n4045274478", "osm_id": "4045274478", "osm_type": "node", "name": "Luyun Road", "name:en": "Luyun Road", "public_transport": "stop_position", "railway": "station", "station": "subway", "subway": "yes", "wikidata": "", "access": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 112.8868356, 28.1942962 ] } },
+{ "type": "Feature", "properties": { "full_id": "n4045274476", "osm_id": "4045274476", "osm_type": "node", "name": "East Meixi Lake", "name:en": "East Meixi Lake", "public_transport": "stop_position", "railway": "station", "station": "subway", "subway": "yes", "wikidata": "", "access": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 112.902895, 28.2049156 ] } }
+]
+}

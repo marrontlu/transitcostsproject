@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "changchun-line-2-eastern-extension-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "bridge": null, "railway": null, "service": null, "layer": null, "name": "to 三道村西", "name:en": null, "colour": null, "construction": null, "electrified": null, "gauge": null, "tunnel": "yes", "usage": null }, "geometry": { "type": "LineString", "coordinates": [ [ 125.419503232034046, 43.879296343975987 ], [ 125.422535699006772, 43.879615490386115 ], [ 125.43016756117521, 43.88179075544862 ], [ 125.437449168799716, 43.884260971706027 ], [ 125.438094374538593, 43.884648095149352 ], [ 125.438702711378099, 43.884906177444904 ], [ 125.440085295104268, 43.885348604237279 ], [ 125.45604952852905, 43.889367314267993 ] ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "bridge": null, "railway": null, "service": null, "layer": null, "name": "to zhaojiagang east", "name:en": null, "colour": null, "construction": null, "electrified": null, "gauge": null, "tunnel": "yes", "usage": null }, "geometry": { "type": "LineString", "coordinates": [ [ 125.456031094079393, 43.889358097043171 ], [ 125.457303071107461, 43.889431834841901 ], [ 125.462538454817192, 43.889321228143814 ], [ 125.471460728463398, 43.889136883646998 ], [ 125.482779480568283, 43.889358097043178 ], [ 125.520754446913656, 43.889284359244449 ], [ 125.547336923355402, 43.889321228143821 ] ] } }
+]
+}

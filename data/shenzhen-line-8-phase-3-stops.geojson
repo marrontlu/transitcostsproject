@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "shenzhen-line-8-phase-3-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n6673778671", "osm_id": "6673778671", "osm_type": "node", "name": "Xichong", "name:en": "Xichong", "proposed": "", "railway": "", "name:zh": "溪涌", "public_transport": "stop_position", "station": "", "train": "", "construction": "", "network": "", "operator": "", "subway": "", "wikidata": "", "platforms": "", "public_transport:proposed": "" }, "geometry": { "type": "Point", "coordinates": [ 114.3564862, 22.6122018 ] } }
+]
+}

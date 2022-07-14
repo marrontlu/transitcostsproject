@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "nanjing-line-3-phase-3-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n3437218782", "osm_id": "3437218782", "osm_type": "node", "name": "Mozhoudonglu", "name:en": "Mozhoudonglu", "name:zh": "", "name:zh_pinyin": "", "public_transport": "", "railway": "station", "ref": "", "subway": "", "name:ja": "", "wikidata": "", "wikipedia": "", "alt_name": "", "access": "", "description": "", "station": "subway", "colour": "", "network": "", "name:ko": "", "train": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 118.8260443, 31.8715595 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Moling Jiedao", "name:en": null, "name:zh": null, "name:zh_pinyin": null, "public_transport": null, "railway": null, "ref": null, "subway": null, "name:ja": null, "wikidata": null, "wikipedia": null, "alt_name": null, "access": null, "description": null, "station": null, "colour": null, "network": null, "name:ko": null, "train": null, "operator": null }, "geometry": { "type": "Point", "coordinates": [ 118.830173346628612, 31.841038387638051 ] } }
+]
+}

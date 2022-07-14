@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "nizhniynovgorod-line-2-extension-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n5627149863", "osm_id": "5627149863", "osm_type": "node", "name": "Стрелка", "name:en": "Strelka", "name:ru": "", "network": "", "operator": "", "public_transport": "stop_position", "railway": "stop", "start_date": "", "station": "", "subway": "yes", "transport": "", "wikidata": "", "wikipedia": "", "barrier": "", "layer": "", "highway": "", "maxspeed": "" }, "geometry": { "type": "Point", "coordinates": [ 43.9496176, 56.3351982 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5627149862", "osm_id": "5627149862", "osm_type": "node", "name": "Стрелка", "name:en": "Strelka", "name:ru": "", "network": "", "operator": "", "public_transport": "stop_position", "railway": "stop", "start_date": "", "station": "", "subway": "yes", "transport": "", "wikidata": "", "wikipedia": "", "barrier": "", "layer": "", "highway": "", "maxspeed": "" }, "geometry": { "type": "Point", "coordinates": [ 43.9495754, 56.3353098 ] } }
+]
+}

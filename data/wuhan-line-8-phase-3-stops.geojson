@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "wuhan-line-8-phase-3-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n5326724159", "osm_id": "5326724159", "osm_type": "node", "name": "军运村", "name:en": "", "public_transport": "station", "subway": "yes", "railway": "station", "station": "subway", "wikidata": "", "access": "", "description": "", "name:zh": "", "network": "", "operator": "", "int_name": "", "highway": "", "traffic_signals": "" }, "geometry": { "type": "Point", "coordinates": [ 114.2895445, 30.4295468 ] } },
+{ "type": "Feature", "properties": { "full_id": "n7620428617", "osm_id": "7620428617", "osm_type": "node", "name": "黄家湖地铁小镇", "name:en": "", "public_transport": "station", "subway": "yes", "railway": "station", "station": "", "wikidata": "", "access": "", "description": "", "name:zh": "", "network": "", "operator": "", "int_name": "", "highway": "", "traffic_signals": "" }, "geometry": { "type": "Point", "coordinates": [ 114.2928779, 30.4396254 ] } }
+]
+}

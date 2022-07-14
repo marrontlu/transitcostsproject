@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "nanchang-line-1-eastern-extension-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n2657257309", "osm_id": "2657257309", "osm_type": "node", "alt_name": "", "name": "Yaohu East", "name:en": "", "platforms": "", "public_transport": "", "subway": "", "railway": "construction", "station": "", "wikidata": "", "construction": "station", "service": "", "name:zh": "", "train": "" }, "geometry": { "type": "Point", "coordinates": [ 116.0566427, 28.6697277 ] } },
+{ "type": "Feature", "properties": { "full_id": "n2657257312", "osm_id": "2657257312", "osm_type": "node", "alt_name": "", "name": "Maqiu", "name:en": "", "platforms": "", "public_transport": "", "subway": "", "railway": "construction", "station": "", "wikidata": "", "construction": "station", "service": "", "name:zh": "", "train": "" }, "geometry": { "type": "Point", "coordinates": [ 116.0746893, 28.6693372 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "tianjin-m3-phase-2-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w185698517", "osm_id": "185698517", "osm_type": "way", "name": "", "railway": "subway", "electrified": "contact_line", "gauge": "1435", "layer": "1", "route": "", "tracks": "2", "tunnel": "", "bridge": "yes", "colour": "", "operator": "", "voltage": "", "service": "siding", "oneway": "", "name:en": "", "ref": "", "covered": "", "construction": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 117.0557934, 39.0558899 ], [ 117.0554185, 39.0530656 ], [ 117.0557934, 39.0558899 ] ] } },
+{ "type": "Feature", "properties": { "full_id": "w321205628", "osm_id": "321205628", "osm_type": "way", "name": "", "railway": "subway", "electrified": "contact_line", "gauge": "1435", "layer": "1", "route": "", "tracks": "2", "tunnel": "", "bridge": "yes", "colour": "lightblue", "operator": "", "voltage": "", "service": "", "oneway": "", "name:en": "", "ref": "", "covered": "", "construction": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 117.0557934, 39.0558899 ], [ 117.056332, 39.0602357 ], [ 117.0565622, 39.0610247 ], [ 117.0567693, 39.0615287 ], [ 117.057247, 39.0621163 ], [ 117.0606354, 39.0649271 ], [ 117.0632597, 39.067129 ], [ 117.0662852, 39.0696577 ], [ 117.0671006, 39.0701454 ], [ 117.0676467, 39.0703745 ], [ 117.0683049, 39.0705606 ], [ 117.0693081, 39.0707168 ], [ 117.0699971, 39.0707332 ], [ 117.0710319, 39.0707205 ], [ 117.0721867, 39.0707249 ], [ 117.0729593, 39.0707278 ], [ 117.0804435, 39.070748 ], [ 117.0837357, 39.0707318 ], [ 117.087862, 39.0707655 ] ] } }
+]
+}

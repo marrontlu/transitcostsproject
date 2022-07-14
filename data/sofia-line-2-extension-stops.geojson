@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sofia-line-2-extension-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n3755519718", "osm_id": "3755519718", "osm_type": "node", "int_name": "Vitosha", "layer": "-2", "name": "Витоша", "name:bg": "Витоша", "name:en": "Vitosha", "network": "Софийско метро", "public_transport": "station", "railway": "station", "start_date": "2016-07-20", "station": "subway", "subway": "yes", "wikidata": "Q25796267", "wikipedia": "bg:Метростанция „Витоша“", "name:de": "", "wheelchair": "yes", "operator": "", "name:ro": "", "alt_name": "", "short_name": "", "short_name:bg": "", "short_name:en": "", "alt_name:bg": "", "platforms": "", "name:es": "", "name:fr": "", "internet_access": "", "highway": "", "railway:switch": "" }, "geometry": { "type": "Point", "coordinates": [ 23.3164127, 42.6584211 ] } }
+]
+}

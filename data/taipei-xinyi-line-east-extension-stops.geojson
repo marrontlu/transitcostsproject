@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "taipei-xinyi-line-east-extension-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Not decided (location might be changed)", "name:en": null, "name:hak": null, "name:hak-HJ": null, "name:nan": null, "name:nan-HJ": null, "name:nan-POJ": null, "name:nan-TL": null, "name:zh": null, "name:zh-Hans": null, "name:zh-Hant": null, "name:zh_pinyin": null, "operator": null, "public_transport": null, "railway": null, "ref": null, "wikidata": null, "wikipedia": null, "wikipedia:zh": null, "addr:city": null, "addr:district": null, "addr:full": null, "addr:housenumber": null, "addr:street": null, "addr:village": null, "network": null, "network:en": null, "train": null, "construction:public_transport": null, "subway": null, "highway": null, "proposed:railway": null, "proposed:station": null, "alt_name": null, "construction:railway": null, "construction:train": null, "alt_name:en": null, "alt_name:ja": null, "alt_name:zh": null, "construction": null, "name:ja": null, "crossing:barrier": null }, "geometry": { "type": "Point", "coordinates": [ 121.583187989394801, 25.037754600584684 ] } }
+]
+}

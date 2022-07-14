@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "saintpetersburg-line-5-extension-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "202", "osm_id": null, "osm_type": null, "railway": null, "name": "Дунайская", "network": null, "public_transport": null, "subway": null, "layer": null, "amenity": null, "name:ru": "Дунайская", "name:en": "Dunayskaya", "barrier": null, "level": null, "covered": null, "access": null, "old_name": null, "old_name:ru": null }, "geometry": { "type": "Point", "coordinates": [ 30.410897646990641, 59.839992848520616 ] } },
+{ "type": "Feature", "properties": { "full_id": "203", "osm_id": null, "osm_type": null, "railway": null, "name": "Шушары", "network": null, "public_transport": null, "subway": null, "layer": null, "amenity": null, "name:ru": "Шушары", "name:en": "Shushary", "barrier": null, "level": null, "covered": null, "access": null, "old_name": null, "old_name:ru": null }, "geometry": { "type": "Point", "coordinates": [ 30.432812727607661, 59.820066038586276 ] } },
+{ "type": "Feature", "properties": { "full_id": "201", "osm_id": null, "osm_type": null, "railway": null, "name": "Проспект Славы", "network": null, "public_transport": null, "subway": null, "layer": null, "amenity": null, "name:ru": "Проспект Славы", "name:en": "Prospekt Slavy", "barrier": null, "level": null, "covered": null, "access": null, "old_name": null, "old_name:ru": null }, "geometry": { "type": "Point", "coordinates": [ 30.395330268079697, 59.856722950926304 ] } }
+]
+}

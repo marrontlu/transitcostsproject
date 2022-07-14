@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "hefei-line-3-southern-extension-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Qingnian Road", "name:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "wikidata": null }, "geometry": { "type": "Point", "coordinates": [ 117.158249729675603, 31.726489688516448 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Yungu Road", "name:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "wikidata": null }, "geometry": { "type": "Point", "coordinates": [ 117.163841996656345, 31.744254158932041 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Xianxia Road", "name:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "wikidata": null }, "geometry": { "type": "Point", "coordinates": [ 117.150880416880568, 31.720277916601841 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Zhanqian Road", "name:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "wikidata": null }, "geometry": { "type": "Point", "coordinates": [ 117.149491012825138, 31.713374717137516 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Ruici Road (name and location may change)", "name:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "wikidata": null }, "geometry": { "type": "Point", "coordinates": [ 117.158351029609378, 31.70501611438581 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Yunxiao Road", "name:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "wikidata": null }, "geometry": { "type": "Point", "coordinates": [ 117.170616747015174, 31.696501480199792 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Xiapaihe Road", "name:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "wikidata": null }, "geometry": { "type": "Point", "coordinates": [ 117.170512120647572, 31.685532756871744 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Guanyi Road (name and location may change)", "name:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "wikidata": null }, "geometry": { "type": "Point", "coordinates": [ 117.158123311574897, 31.680423825703024 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "hongkong-south-island-line-east-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n3943626060", "osm_id": "3943626060", "osm_type": "node", "name": "South Horizons", "name:en": "South Horizons", "name:zh": "海怡半島", "public_transport": "stop_position", "railway": "", "ref": "SOH", "subway": "yes", "construction": "", "network": "", "operator": "", "railway:signal:direction": "", "access": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 114.149089, 22.2423467 ] } },
+{ "type": "Feature", "properties": { "full_id": "n3943626059", "osm_id": "3943626059", "osm_type": "node", "name": "Ocean Park", "name:en": "Ocean Park", "name:zh": "海洋公園", "public_transport": "stop_position", "railway": "stop", "ref": "OCP", "subway": "yes", "construction": "", "network": "", "operator": "", "railway:signal:direction": "", "access": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 114.1743554, 22.248688 ] } },
+{ "type": "Feature", "properties": { "full_id": "n3943626058", "osm_id": "3943626058", "osm_type": "node", "name": "Lei Tung", "name:en": "Lei Tung", "name:zh": "利東", "public_transport": "stop_position", "railway": "stop", "ref": "LET", "subway": "yes", "construction": "", "network": "", "operator": "", "railway:signal:direction": "", "access": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 114.1560169, 22.2419551 ] } },
+{ "type": "Feature", "properties": { "full_id": "n3943626057", "osm_id": "3943626057", "osm_type": "node", "name": "Admiralty", "name:en": "Admiralty", "name:zh": "金鐘", "public_transport": "stop_position", "railway": "stop", "ref": "ADM", "subway": "yes", "construction": "", "network": "", "operator": "", "railway:signal:direction": "", "access": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 114.1658238, 22.2782191 ] } },
+{ "type": "Feature", "properties": { "full_id": "n3778450149", "osm_id": "3778450149", "osm_type": "node", "name": "Wong Chuk Hang", "name:en": "Wong Chuk Hang", "name:zh": "黃竹坑", "public_transport": "stop_position", "railway": "stop", "ref": "WCH", "subway": "yes", "construction": "", "network": "", "operator": "", "railway:signal:direction": "", "access": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 114.1675085, 22.2478945 ] } }
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "istanbul-m4-phase-4-m10-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n7977697185", "osm_id": "7977697185", "osm_type": "node", "name": "Pendik", "railway": "construction", "wikidata": "", "wikipedia": "", "construction": "", "public_transport": "", "subway": "" }, "geometry": { "type": "Point", "coordinates": [ 29.2313701, 40.8807675 ] } },
+{ "type": "Feature", "properties": { "full_id": "n7977697235", "osm_id": "7977697235", "osm_type": "node", "name": "İçmeler - Tuzla Belediyesi", "railway": "construction", "wikidata": "", "wikipedia": "", "construction": "", "public_transport": "", "subway": "" }, "geometry": { "type": "Point", "coordinates": [ 29.300084, 40.8448519 ] } },
+{ "type": "Feature", "properties": { "full_id": "n7977697184", "osm_id": "7977697184", "osm_type": "node", "name": "Kaynarca Merkez", "railway": "construction", "wikidata": "", "wikipedia": "", "construction": "", "public_transport": "", "subway": "" }, "geometry": { "type": "Point", "coordinates": [ 29.2606796, 40.8791504 ] } },
+{ "type": "Feature", "properties": { "full_id": "n7977697239", "osm_id": "7977697239", "osm_type": "node", "name": "Çamçeşme", "railway": "construction", "wikidata": "", "wikipedia": "", "construction": "", "public_transport": "", "subway": "" }, "geometry": { "type": "Point", "coordinates": [ 29.2733223, 40.8786256 ] } },
+{ "type": "Feature", "properties": { "full_id": "n7977697237", "osm_id": "7977697237", "osm_type": "node", "name": "Esenyalı", "railway": "construction", "wikidata": "", "wikipedia": "", "construction": "", "public_transport": "", "subway": "" }, "geometry": { "type": "Point", "coordinates": [ 29.2954492, 40.8639788 ] } },
+{ "type": "Feature", "properties": { "full_id": "n7977697238", "osm_id": "7977697238", "osm_type": "node", "name": "Kavakpınar", "railway": "construction", "wikidata": "", "wikipedia": "", "construction": "", "public_transport": "", "subway": "" }, "geometry": { "type": "Point", "coordinates": [ 29.2849168, 40.8760969 ] } }
+]
+}

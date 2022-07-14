@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "nanchang-line-2-eastern-extension-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n2558452597", "osm_id": "2558452597", "osm_type": "node", "alt_name": "", "name": "Changnan Market", "name:en": "", "platforms": "", "public_transport": "", "subway": "", "railway": "construction", "station": "", "wikidata": "", "construction": "station", "service": "", "name:zh": "", "train": "" }, "geometry": { "type": "Point", "coordinates": [ 115.9377651, 28.6237759 ] } },
+{ "type": "Feature", "properties": { "full_id": "n2558456597", "osm_id": "2558456597", "osm_type": "node", "alt_name": "", "name": "Jiefanglu (name and location may change)", "name:en": "", "platforms": "", "public_transport": "", "subway": "", "railway": "construction", "station": "", "wikidata": "", "construction": "station", "service": "", "name:zh": "", "train": "" }, "geometry": { "type": "Point", "coordinates": [ 115.9339487, 28.6559154 ] } },
+{ "type": "Feature", "properties": { "full_id": "n2657253378", "osm_id": "2657253378", "osm_type": "node", "alt_name": "", "name": "Xinxiqiaolu (name may change)", "name:en": "", "platforms": "", "public_transport": "", "subway": "", "railway": "construction", "station": "", "wikidata": "", "construction": "station", "service": "", "name:zh": "", "train": "" }, "geometry": { "type": "Point", "coordinates": [ 115.9295559, 28.6406641 ] } },
+{ "type": "Feature", "properties": { "full_id": "n2558439267", "osm_id": "2558439267", "osm_type": "node", "alt_name": "", "name": "Chengnan Center", "name:en": "", "platforms": "", "public_transport": "", "subway": "", "railway": "station", "station": "", "wikidata": "", "construction": "", "service": "", "name:zh": "", "train": "" }, "geometry": { "type": "Point", "coordinates": [ 115.9294624, 28.6309347 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "changchun-line-3-southern-extension-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "MAOJIAGOU", "name:en": "MAOJIAGOU", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.447464317248631, 43.759305950738266 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "No.59 Middle School", "name:en": "No.59 Middle School", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.461173585680655, 43.744979763217231 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "shenzhen-line-11-phase-2-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Gangsha North", "name:en": "Gangsha North", "proposed": null, "railway": null, "name:zh": null, "public_transport": null, "station": null, "train": null, "construction": null, "network": null, "operator": null, "subway": null, "wikidata": null, "platforms": null, "public_transport:proposed": null }, "geometry": { "type": "Point", "coordinates": [ 114.062834199442165, 22.542867119873286 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Huaqiang South", "name:en": "Huaqiang South", "proposed": null, "railway": null, "name:zh": null, "public_transport": null, "station": null, "train": null, "construction": null, "network": null, "operator": null, "subway": null, "wikidata": null, "platforms": null, "public_transport:proposed": null }, "geometry": { "type": "Point", "coordinates": [ 114.081686011954645, 22.540639376391042 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Hongling South", "name:en": "Hongling South", "proposed": null, "railway": null, "name:zh": null, "public_transport": null, "station": null, "train": null, "construction": null, "network": null, "operator": null, "subway": null, "wikidata": null, "platforms": null, "public_transport:proposed": null }, "geometry": { "type": "Point", "coordinates": [ 114.099588855525624, 22.541585233958923 ] } }
+]
+}

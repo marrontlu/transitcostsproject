@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "zhengzhou-line-14-phase-1-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w732496077", "osm_id": "732496077", "osm_type": "way", "electrified": "contact_line", "gauge": "1435", "layer": "-2", "name": "郑州地铁14号线1期", "name:en": "", "name:zh": "", "railway": "subway", "ref": "", "tunnel": "yes", "colour": "", "service": "", "bridge": "", "construction": "", "embankment": "", "operator": "郑州地铁" }, "geometry": { "type": "LineString", "coordinates": [ [ 113.5350456, 34.7242134 ], [ 113.5350101, 34.7383387 ], [ 113.5350082, 34.7390818 ], [ 113.5349768, 34.7398046 ], [ 113.5347491, 34.7450447 ], [ 113.5344393, 34.7498572 ], [ 113.5344068, 34.7591569 ], [ 113.5344439, 34.7696952 ], [ 113.5344456, 34.7701799 ], [ 113.5344762, 34.7738534 ], [ 113.5344982, 34.7743422 ], [ 113.5344197, 34.7746594 ], [ 113.5341083, 34.7749618 ], [ 113.5336552, 34.7752641 ], [ 113.5333013, 34.7753571 ], [ 113.5240994, 34.7753455 ], [ 113.5139998, 34.7754013 ] ] } },
+{ "type": "Feature", "properties": { "full_id": "w680249079", "osm_id": "680249079", "osm_type": "way", "electrified": "", "gauge": "", "layer": "-2", "name": "郑州地铁14号线", "name:en": "", "name:zh": "郑州地铁14号线", "railway": "subway", "ref": "", "tunnel": "yes", "colour": "", "service": "", "bridge": "", "construction": "subway", "embankment": "", "operator": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 113.5344456, 34.7701799 ], [ 113.5344439, 34.7696952 ], [ 113.5344068, 34.7591569 ], [ 113.5344393, 34.7498572 ], [ 113.5347491, 34.7450447 ], [ 113.5349768, 34.7398046 ], [ 113.5350082, 34.7390818 ], [ 113.5350101, 34.7383387 ] ] } }
+]
+}

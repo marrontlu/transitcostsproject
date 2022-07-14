@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "istanbul-m11-phase-1-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 8, "name": "Istanbul Airport 3" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.712931432945812, 41.255582756843687 ] ] } },
+{ "type": "Feature", "properties": { "id": 9, "name": "Istanbul Airport 2" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.726631723815672, 41.255830427184712 ] ] } },
+{ "type": "Feature", "properties": { "id": 10, "name": "Istanbul Airport 1" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.756135164979622, 41.256414960255505 ] ] } },
+{ "type": "Feature", "properties": { "id": 11, "name": "Ihsaniye" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.809612851891711, 41.242384722856158 ] ] } },
+{ "type": "Feature", "properties": { "id": 12, "name": "Gokturk" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.882874691150942, 41.177715792448623 ] ] } },
+{ "type": "Feature", "properties": { "id": 13, "name": "Kemerburgaz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.910218290355601, 41.159180755181467 ] ] } },
+{ "type": "Feature", "properties": { "id": 14, "name": "Hasdal" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.959946820716603, 41.089516899504005 ] ] } },
+{ "type": "Feature", "properties": { "id": 15, "name": "Kagithane" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.974720037302955, 41.081054262351515 ] ] } },
+{ "type": "Feature", "properties": { "id": 16, "name": "Gayrettepe" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 29.010420776312124, 41.068809211507322 ] ] } }
+]
+}

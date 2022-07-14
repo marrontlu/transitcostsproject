@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "shenzhen-line-7-phase-2-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "electrified": null, "gauge": null, "layer": null, "name": null, "name:en": null, "name:zh": null, "operator": null, "railway": null, "tunnel": "yes", "voltage": null, "bridge": null, "frequency": null, "name:zh-Hans": null, "name:zh-Hant": null, "service": null, "covered": null, "name:zh_pinyin": null, "start_date": null, "usage": null, "opening_date": null, "highspeed": null, "ref": null }, "geometry": { "type": "LineString", "coordinates": [ [ 113.965045584133136, 22.5971110856892 ], [ 113.968897668051611, 22.597183733085991 ], [ 113.972242992080169, 22.597282958798701 ], [ 113.972809996152805, 22.597098682475092 ], [ 113.976977476086688, 22.595596121682604 ], [ 113.979387243395394, 22.595199218831759 ], [ 113.981655259685937, 22.595085818017232 ], [ 113.984079202096495, 22.594986592304519 ], [ 113.985043109019983, 22.595312619646286 ], [ 113.985340786158105, 22.595411845358999 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "singapore-circle0-line-stage-6-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "cutting": null, "gauge": null, "layer": null, "name": null, "railway": null, "ref": null, "bridge": null, "electrified": null, "voltage": null, "tunnel": "yes", "usage": null, "colour": null, "designation": null, "surface": null, "alt_name": null, "name:en": null, "name:zh": null, "embankment": null, "service": null, "construction": null, "wikipedia": null, "operator": null, "wikidata": null }, "geometry": { "type": "LineString", "coordinates": [ [ 103.852896718378332, 1.273456836189661 ], [ 103.851348271553178, 1.273112736895181 ], [ 103.848817278164674, 1.273112736895181 ], [ 103.846841800574452, 1.272970282790108 ], [ 103.835622817690719, 1.272671109913208 ], [ 103.832671173889423, 1.272406497074133 ], [ 103.831363526634149, 1.271425761632675 ], [ 103.828617467398061, 1.269071996573175 ], [ 103.826917525966209, 1.267241290415787 ], [ 103.825470920167788, 1.26585758052165 ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "changsha-line-5-north-extension-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "service": null, "electrified": null, "gauge": null, "layer": null, "name": null, "name:en": null, "tunnel": "yes", "construction": null, "bridge": null, "usage": null, "colour": null }, "geometry": { "type": "LineString", "coordinates": [ [ 113.05812867700682, 28.290228845630889 ], [ 113.0597295440583, 28.296079919267829 ], [ 113.06045523517831, 28.298837545523767 ], [ 113.061277685114291, 28.300784816695725 ], [ 113.062100135050272, 28.302332957751691 ], [ 113.063152387174284, 28.304618884779636 ], [ 113.063170025029166, 28.304674003076119 ] ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "service": null, "electrified": null, "gauge": null, "layer": null, "name": null, "name:en": null, "tunnel": null, "construction": null, "bridge": null, "usage": null, "colour": null }, "geometry": { "type": "LineString", "coordinates": [ [ 113.063170025029166, 28.304674003076119 ], [ 113.063442663622268, 28.305525998679617 ], [ 113.064615864266244, 28.309710817471522 ], [ 113.065873728874223, 28.314597137679417 ], [ 113.067010644962224, 28.319289940255317 ] ] } }
+]
+}

@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "sanjose-bart-line2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 11111, "tunnel": null, "bridge": null, "service": null }, "geometry": { "type": "LineString", "coordinates": [ [ -121.93941380756246, 37.355601676782491 ], [ -121.923146679627692, 37.347627447039066 ] ] } },
+{ "type": "Feature", "properties": { "id": 11111, "tunnel": "yes", "bridge": null, "service": null }, "geometry": { "type": "LineString", "coordinates": [ [ -121.923146679627692, 37.347627447039066 ], [ -121.91372530136546, 37.341269008339459 ] ] } },
+{ "type": "Feature", "properties": { "id": 11111, "tunnel": "yes", "bridge": null, "service": null }, "geometry": { "type": "LineString", "coordinates": [ [ -121.91372530136546, 37.341269008339459 ], [ -121.910200756979592, 37.337173457682447 ] ] } },
+{ "type": "Feature", "properties": { "id": 11111, "tunnel": "yes", "bridge": null, "service": null }, "geometry": { "type": "LineString", "coordinates": [ [ -121.910200756979592, 37.337173457682447 ], [ -121.909116281783952, 37.333347149372507 ] ] } },
+{ "type": "Feature", "properties": { "id": 11111, "tunnel": "yes", "bridge": null, "service": null }, "geometry": { "type": "LineString", "coordinates": [ [ -121.909116281783952, 37.333347149372507 ], [ -121.906676212593723, 37.331353080467117 ] ] } },
+{ "type": "Feature", "properties": { "id": 11111, "tunnel": "yes", "bridge": null, "service": null }, "geometry": { "type": "LineString", "coordinates": [ [ -121.906676212593723, 37.331353080467117 ], [ -121.904371702802976, 37.331191396884712 ] ] } },
+{ "type": "Feature", "properties": { "id": 11111, "tunnel": "yes", "bridge": null, "service": null }, "geometry": { "type": "LineString", "coordinates": [ [ -121.904371702802976, 37.331191396884712 ], [ -121.890680203457862, 37.3359339706996 ] ] } },
+{ "type": "Feature", "properties": { "id": 11111, "tunnel": "yes", "bridge": null, "service": null }, "geometry": { "type": "LineString", "coordinates": [ [ -121.890680203457862, 37.3359339706996 ], [ -121.870752971737772, 37.34504102846261 ] ] } },
+{ "type": "Feature", "properties": { "id": 11111, "tunnel": "yes", "bridge": null, "service": null }, "geometry": { "type": "LineString", "coordinates": [ [ -121.870752971737772, 37.34504102846261 ], [ -121.867567325850544, 37.34746579848818 ] ] } },
+{ "type": "Feature", "properties": { "id": 11111, "tunnel": "yes", "bridge": null, "service": null }, "geometry": { "type": "LineString", "coordinates": [ [ -121.867567325850544, 37.34746579848818 ], [ -121.865195036360063, 37.350698703380928 ] ] } },
+{ "type": "Feature", "properties": { "id": 11111, "tunnel": "yes", "bridge": null, "service": null }, "geometry": { "type": "LineString", "coordinates": [ [ -121.865195036360063, 37.350698703380928 ], [ -121.865195036360063, 37.354362493965965 ] ] } },
+{ "type": "Feature", "properties": { "id": 11111, "tunnel": "yes", "bridge": null, "service": null }, "geometry": { "type": "LineString", "coordinates": [ [ -121.865195036360063, 37.354362493965965 ], [ -121.866753969453811, 37.357110219555921 ] ] } },
+{ "type": "Feature", "properties": { "id": 11111, "tunnel": "yes", "bridge": null, "service": null }, "geometry": { "type": "LineString", "coordinates": [ [ -121.866753969453811, 37.357110219555921 ], [ -121.870007395040744, 37.359534599778883 ] ] } }
+]
+}

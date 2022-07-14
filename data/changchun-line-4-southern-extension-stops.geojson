@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "changchun-line-4-southern-extension-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "Fuzhi Ave.", "name:en": "Fuzhi Ave.", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.359854696467593, 43.7848720616037 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "Wujiadian", "name:en": "Wujiadian", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.35996520588084, 43.774973575575167 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "Qianshili", "name:en": "Qianshili", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.360138863530523, 43.762312354211645 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "Hejiatun", "name:en": "Hejiatun", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.360596688243106, 43.729933096086349 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "Dongwulitun", "name:en": "Dongwulitun", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.360423030593509, 43.743399457461742 ] } }
+]
+}

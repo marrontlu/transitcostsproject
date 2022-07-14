@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "miami-metrorail-extension-to-mia-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n6416386201", "osm_id": "6416386201", "osm_type": "node", "railway": "station", "barrier": "", "name": "Miami International Airport", "network": "MDT", "operator": "Miami-Dade Transit", "public_transport": "station", "train": "", "railway:ref": "", "subway": "yes", "usage": "", "disused:railway": "", "noexit": "", "addr:city": "", "addr:housenumber": "", "addr:postcode": "", "addr:state": "", "addr:street": "", "ele": "", "gnis:county_name": "", "gnis:feature_id": "", "gnis:import_uuid": "", "gnis:reviewed": "", "wikidata": "Q3095577", "station": "subway", "wheelchair": "", "old_name": "", "monorail": "", "wikipedia": "", "local_ref": "", "crossing:barrier": "", "crossing:light": "", "entrance": "", "internet_access": "", "ref": "", "level": "" }, "geometry": { "type": "Point", "coordinates": [ -80.2586662, 25.7979241 ] } }
+]
+}

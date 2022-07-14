@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "hangzhou-line-5-phase-2-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n7492697328", "osm_id": "7492697328", "osm_type": "node", "name": "Gexiang", "name:en": "Gexiang", "public_transport": "stop_position", "railway": "stop", "subway": "yes", "ref": "", "name:zh": "", "station": "", "wikidata": "", "wikipedia": "", "access": "", "description": "", "construction:railway": "", "train": "", "electrified": "", "gauge": "" }, "geometry": { "type": "Point", "coordinates": [ 119.9941746, 30.2730292 ] } },
+{ "type": "Feature", "properties": { "full_id": "n7255101967", "osm_id": "7255101967", "osm_type": "node", "name": "Lvting Road", "name:en": "Lvting Road", "public_transport": "stop_position", "railway": "stop", "subway": "yes", "ref": "", "name:zh": "", "station": "", "wikidata": "", "wikipedia": "", "access": "", "description": "", "construction:railway": "", "train": "", "electrified": "", "gauge": "" }, "geometry": { "type": "Point", "coordinates": [ 119.9868656, 30.2628373 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nanning-line-2-eastern-extension-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w548381144", "osm_id": "548381144", "osm_type": "way", "colour": "red", "construction": "subway", "construction:railway": "subway", "electrified": "contact_line", "frequency": "0", "gauge": "1435", "layer": "-1", "maxspeed": "80", "name": "南宁轨道交通2号线", "name:en": "Nanning Rail Transit Line 2", "name:zh": "南宁轨道交通2号线", "operator": "南宁轨道公司", "operator:zh-Hant": "南寧軌道交通(Nanning Rail Transit (NNRT)", "railway": "construction", "ref": "2号线", "tunnel": "yes", "voltage": "1500", "highspeed": "", "opening_date": "", "usage": "", "bridge": "", "oneway": "", "wikidata": "", "wikipedia": "", "check_date": "", "passenger_lines": "", "railway:ballastless": "", "railway:ctcs": "", "railway:traffic_mode": "", "tracks": "", "tunnel:length": "", "tunnel:name": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 108.3918857, 22.728829 ], [ 108.3824747, 22.7292842 ], [ 108.3799726, 22.7291804 ], [ 108.3770975, 22.7289561 ], [ 108.3745301, 22.7286485 ], [ 108.3719302, 22.7281759 ], [ 108.3640286, 22.7261486 ], [ 108.3574747, 22.7244427 ], [ 108.3529524, 22.7232656 ], [ 108.3487159, 22.7221916 ], [ 108.3385375, 22.7196111 ], [ 108.3377893, 22.7195413 ], [ 108.3371676, 22.7196081 ] ] } }
+]
+}

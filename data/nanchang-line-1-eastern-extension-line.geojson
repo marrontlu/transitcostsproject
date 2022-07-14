@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nanchang-line-1-eastern-extension-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w260246102", "osm_id": "260246102", "osm_type": "way", "electrified": "", "layer": "-1", "name": "轨道交通1号线二期(东延)", "railway": "construction", "tunnel": "yes", "voltage": "", "gauge": "", "construction": "", "service": "", "frequency": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 116.0333169, 28.675388 ], [ 116.0345695, 28.6752268 ], [ 116.0358138, 28.6749718 ], [ 116.0518338, 28.6707068 ], [ 116.0566427, 28.6697277 ], [ 116.0606014, 28.6692149 ], [ 116.0746893, 28.6693372 ] ] } }
+]
+}

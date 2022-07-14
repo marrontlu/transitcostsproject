@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "shanghai-line-1-western-extension-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "bridge": null, "gauge": null, "layer": null, "railway": null, "electrified": null, "frequency": null, "name": null, "name:en": null, "name:fr": null, "official_name": null, "usage": null, "voltage": null, "construction": null, "name:zh": null, "oneway": null, "tunnel": "no", "opening_date": null, "service": null, "maxspeed": null }, "geometry": { "type": "LineString", "coordinates": [ [ 121.380766624434642, 31.112816148891728 ], [ 121.375125763703764, 31.106770480995245 ] ] } }
+]
+}

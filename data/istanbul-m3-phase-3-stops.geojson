@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "istanbul-m3-phase-3-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n6917432727", "osm_id": "6917432727", "osm_type": "node", "name": "Onurkent", "railway": "construction", "constructi": null, "public_tra": null, "subway": null, "train": null, "network": null, "station": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 28.7917146, 41.1137412 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6917432760", "osm_id": "6917432760", "osm_type": "node", "name": "Toplu Konutlar", "railway": "construction", "constructi": null, "public_tra": null, "subway": null, "train": null, "network": null, "station": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 28.767485909211995, 41.110000700516565 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6917888494", "osm_id": "6917888494", "osm_type": "node", "name": "Kayaşehir", "railway": "construction", "constructi": null, "public_tra": null, "subway": null, "train": null, "network": null, "station": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 28.7662186, 41.1176463 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Saglikkent", "railway": null, "constructi": null, "public_tra": null, "subway": null, "train": null, "network": null, "station": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 28.776308930080589, 41.103147694158359 ] } }
+]
+}

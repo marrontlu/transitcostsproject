@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "changchun-line-3-southern-extension-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "bridge": null, "railway": null, "service": null, "layer": null, "name": null, "name:en": null, "colour": null, "construction": null, "electrified": null, "gauge": null, "tunnel": "no", "usage": null }, "geometry": { "type": "LineString", "coordinates": [ [ 125.443970372206095, 43.768786555655232 ], [ 125.444117468016813, 43.766662050832764 ], [ 125.44433811173289, 43.765759113433575 ], [ 125.446985836325936, 43.759677209433939 ], [ 125.4491187255814, 43.758043754349309 ], [ 125.44979904370598, 43.757021162210016 ], [ 125.451306775765914, 43.754059530536317 ], [ 125.453122489679615, 43.751705393630679 ] ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "bridge": null, "railway": null, "service": null, "layer": null, "name": null, "name:en": null, "colour": null, "construction": null, "electrified": null, "gauge": null, "tunnel": "no", "usage": null }, "geometry": { "type": "LineString", "coordinates": [ [ 125.453120191307519, 43.751708714058239 ], [ 125.462224042967989, 43.744124377211961 ] ] } }
+]
+}

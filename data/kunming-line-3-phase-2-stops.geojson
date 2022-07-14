@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "kunming-line-3-phase-2-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n5258890595", "osm_id": "5258890595", "osm_type": "node", "name": "Western Hills Park", "name:en": "Western Hills Park", "name:zh": "", "network": "", "network:en": "", "public_transport": "", "railway": "station", "station": "subway", "subway": "", "transport": "", "wikidata": "", "description": "", "access": "" }, "geometry": { "type": "Point", "coordinates": [ 102.6175265, 24.9870014 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5067703622", "osm_id": "5067703622", "osm_type": "node", "name": "Chejiabi", "name:en": "Chejiabi", "name:zh": "", "network": "", "network:en": "", "public_transport": "", "railway": "station", "station": "subway", "subway": "", "transport": "", "wikidata": "", "description": "", "access": "" }, "geometry": { "type": "Point", "coordinates": [ 102.6145193, 24.9976634 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5067703513", "osm_id": "5067703513", "osm_type": "node", "name": "Pupingcun", "name:en": "Pupingcun", "name:zh": "", "network": "", "network:en": "", "public_transport": "", "railway": "station", "station": "subway", "subway": "", "transport": "", "wikidata": "", "description": "", "access": "" }, "geometry": { "type": "Point", "coordinates": [ 102.6199955, 25.0081495 ] } }
+]
+}

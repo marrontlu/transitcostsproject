@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "changsha-line-1-north-extension-phase-1-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "service": null, "electrified": null, "gauge": null, "layer": null, "name": null, "name:en": null, "tunnel": "yes", "construction": null, "bridge": null, "usage": null, "colour": null }, "geometry": { "type": "LineString", "coordinates": [ [ 112.979680786864947, 28.265467884020129 ], [ 112.978698763942901, 28.26857823171374 ], [ 112.978173071374968, 28.270885437984113 ], [ 112.978056250804315, 28.273251054539809 ], [ 112.977209301667088, 28.275090978527576 ], [ 112.974493223399435, 28.279471749927016 ], [ 112.972010786273131, 28.283618880185152 ], [ 112.966520219452505, 28.293081346407945 ], [ 112.96009508806668, 28.303945659478561 ], [ 112.955188624099293, 28.312152304566848 ], [ 112.952238904690347, 28.316854332535588 ], [ 112.952022092935522, 28.317085408221658 ] ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "service": null, "electrified": null, "gauge": null, "layer": null, "name": null, "name:en": null, "tunnel": null, "construction": null, "bridge": null, "usage": null, "colour": null }, "geometry": { "type": "LineString", "coordinates": [ [ 112.952022092935522, 28.317085408221658 ], [ 112.950019313847974, 28.319219949091284 ], [ 112.944499541884667, 28.324885746767894 ], [ 112.939593077917294, 28.329938236448591 ], [ 112.923676275165974, 28.346585167766474 ] ] } }
+]
+}

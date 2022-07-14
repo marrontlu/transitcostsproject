@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "saintpetersburg-line-3-extension-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n5644519215", "osm_id": "5644519215", "osm_type": "node", "railway": "", "name": "Зенит", "network": "", "public_transport": "stop_position", "subway": "yes", "layer": "", "amenity": "", "name:ru": "Зенит", "name:en": "Novokrestovskaya", "barrier": "", "level": "", "covered": "", "access": "", "old_name": "Новокрестовская", "old_name:ru": "Новокрестовская" }, "geometry": { "type": "Point", "coordinates": [ 30.211931491882627, 59.971958573699411 ] } },
+{ "type": "Feature", "properties": { "full_id": "101", "osm_id": null, "osm_type": null, "railway": null, "name": "Беговая", "network": null, "public_transport": null, "subway": null, "layer": null, "amenity": null, "name:ru": "Беговая", "name:en": "Begovaya", "barrier": null, "level": null, "covered": null, "access": null, "old_name": null, "old_name:ru": null }, "geometry": { "type": "Point", "coordinates": [ 30.202247255533457, 59.987379362221425 ] } }
+]
+}

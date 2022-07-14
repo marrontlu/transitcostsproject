@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "xi'an-line-1-phase-3-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Hanfeilu", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null, "wikidata": null, "name:zh": null, "service": null, "access": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 108.733716088542963, 34.319761155830015 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Qinhuangnanlu", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null, "wikidata": null, "name:zh": null, "service": null, "access": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 108.702802210174838, 34.315277581648452 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Angulu", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null, "wikidata": null, "name:zh": null, "service": null, "access": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 108.688994376571571, 34.307533673011797 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Zhonghuaxilu", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null, "wikidata": null, "name:zh": null, "service": null, "access": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 108.669334496073205, 34.314624804762218 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Baoquanlu", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null, "wikidata": null, "name:zh": null, "service": null, "access": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 108.6606756658271, 34.327583982770946 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Qinduzhan", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null, "wikidata": null, "name:zh": null, "service": null, "access": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 108.658127753459581, 34.335324945876508 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Baimahelu", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null, "wikidata": null, "name:zh": null, "service": null, "access": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 108.723591399856403, 34.318294431499737 ] } }
+]
+}

@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "istanbul-m9-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Atakoy" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.856899742253635, 40.979921166126509 ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "Yenibosna" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.837273978316851, 40.990334122643951 ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "Cobancesme" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.822587052993651, 40.999903244773947 ] ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "Kuyumcukent" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.818677739047342, 41.006243856867442 ] ] } },
+{ "type": "Feature", "properties": { "id": 5, "name": "Dogu Sanayi" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.817900195942002, 41.015099046321538 ] ] } },
+{ "type": "Feature", "properties": { "id": 6, "name": "Mimar Sinan" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.816604290766417, 41.025033912461112 ] ] } },
+{ "type": "Feature", "properties": { "id": 7, "name": "Evren Mahallesi" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.813868490951315, 41.03656386522259 ] ] } },
+{ "type": "Feature", "properties": { "id": 8, "name": "Ikitelli Caddesi" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.806834605637224, 41.044866570046317 ] ] } },
+{ "type": "Feature", "properties": { "id": 9, "name": "Mehmet Akif" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.798807193021826, 41.052495012399099 ] ] } },
+{ "type": "Feature", "properties": { "id": 10, "name": "Bahariye" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.799195964574491, 41.058792561608037 ] ] } },
+{ "type": "Feature", "properties": { "id": 11, "name": "Masko" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.804134803188074, 41.064562976028078 ] ] } },
+{ "type": "Feature", "properties": { "id": 12, "name": "Ikitelli Sanayi" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 28.804077207402493, 41.070539136781434 ] ] } }
+]
+}

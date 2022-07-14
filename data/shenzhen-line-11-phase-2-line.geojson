@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "shenzhen-line-11-phase-2-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "electrified": null, "gauge": null, "layer": null, "name": null, "name:en": null, "name:zh": null, "operator": null, "railway": null, "tunnel": "yes", "voltage": null, "bridge": null, "frequency": null, "name:zh-Hans": null, "name:zh-Hant": null, "service": null, "covered": null, "name:zh_pinyin": null, "start_date": null, "usage": null, "opening_date": null, "highspeed": null, "ref": null }, "geometry": { "type": "LineString", "coordinates": [ [ 114.053442518295455, 22.542702994917054 ], [ 114.062809308453652, 22.542876453994051 ], [ 114.06655540224223, 22.54275199905091 ], [ 114.068496899355253, 22.542303961255595 ], [ 114.070338832513769, 22.541308321710456 ], [ 114.071583381945189, 22.540312682165318 ], [ 114.074271608717055, 22.540063772279034 ], [ 114.075429039688302, 22.540038881290407 ], [ 114.077880802068208, 22.540213118210808 ], [ 114.080656147300274, 22.540524255568663 ], [ 114.08170156882268, 22.54063626501749 ], [ 114.084190667685547, 22.540661156006113 ], [ 114.089243538377076, 22.541333212699072 ], [ 114.095117811693399, 22.541482558630843 ], [ 114.099722644589662, 22.541582122585357 ] ] } }
+]
+}

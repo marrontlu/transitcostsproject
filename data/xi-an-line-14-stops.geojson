@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "xi'an-line-14-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Jianyuanlu", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 108.946790772699316, 34.382761932440047 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Xuefulu", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 108.977310445251092, 34.37525731458885 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Beichenlu", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 108.990785478623707, 34.3730714240764 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Tiyuzhongxin", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 109.014486678269122, 34.374928812303395 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Shuangzhai", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 109.035762707846303, 34.372453433272824 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Xinsi", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 109.051346709329891, 34.370609355219585 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Gangwudadao", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 109.062101889956111, 34.369095561785691 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Hezhao", "name:en": null, "public_transport": null, "subway": null, "railway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 109.079838459212425, 34.367334029062853 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "shanghai-line-1-western-extension-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Humin Road", "name:en": "Humin Road", "name:zh": null, "network": null, "public_transport": null, "railway": null, "subway": null, "wheelchair": null, "proposed:public_transport": null, "proposed:railway": null, "old_name": null, "name:ko": null, "access": null, "description": null, "light_rail": null, "amenity": null, "name:ja": null, "wikidata": null, "wikipedia": null, "highway": null, "traffic_signals": null, "entrance": null }, "geometry": { "type": "Point", "coordinates": [ 121.376159163219995, 31.107878240371225 ] } }
+]
+}

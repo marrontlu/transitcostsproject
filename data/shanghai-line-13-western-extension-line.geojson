@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "shanghai-line-13-western-extension-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "electrified": null, "frequency": null, "gauge": null, "name": null, "name:en": null, "railway": null, "service": null, "voltage": null, "name:zh": null, "oneway": null, "bridge": null, "layer": null, "tunnel": "yes", "usage": null, "wikidata": null, "wikipedia": null, "colour": null, "operator": null, "cutting": null, "maxspeed": null, "embankment": null }, "geometry": { "type": "LineString", "coordinates": [ [ 121.315486069111927, 31.242841771732742 ], [ 121.28561234652507, 31.242735461468452 ], [ 121.270006879071161, 31.235841787125722 ], [ 121.265097729443895, 31.233809731283625 ], [ 121.264584515463, 31.233296517302726 ], [ 121.264144617765098, 31.232343405623922 ], [ 121.264144617765098, 31.231316977662129 ], [ 121.265537627141811, 31.228457642625706 ], [ 121.274570170724857, 31.211029584301752 ], [ 121.276103854946015, 31.209240286043748 ], [ 121.285543045153346, 31.199018193780788 ], [ 121.288137659319347, 31.196890610164683 ], [ 121.288612473711709, 31.196574067236433 ], [ 121.289984159734132, 31.194780323976353 ] ] } }
+]
+}

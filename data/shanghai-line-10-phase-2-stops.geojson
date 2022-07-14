@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "shanghai-line-10-phase-2-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Jilong Road", "name:en": "Jilong Road", "public_transport": null, "railway": null, "tram": null, "name:zh": null, "proposed:public_transport": null, "proposed:railway": null, "subway": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 121.586981912647829, 31.352978074877406 ] } },
+{ "type": "Feature", "properties": { "full_id": "n7151597041", "osm_id": "7151597041", "osm_type": "node", "name": "Gangcheng Road", "name:en": "Gangcheng Road", "public_transport": "", "railway": "", "tram": "", "name:zh": "港城路", "proposed:public_transport": "stop_position", "proposed:railway": "stop", "subway": "yes", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 121.5714173, 31.3553811 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Shuangjiang Road", "name:en": "Shuangjiang Road", "public_transport": null, "railway": null, "tram": null, "name:zh": null, "proposed:public_transport": null, "proposed:railway": null, "subway": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 121.533717603935273, 31.35602596952771 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Guofan Road", "name:en": "Guofan Road", "public_transport": null, "railway": null, "tram": null, "name:zh": null, "proposed:public_transport": null, "proposed:railway": null, "subway": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 121.509200178246076, 31.342397718117773 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Gaoqiao West", "name:en": "Gaoqiao West", "public_transport": null, "railway": null, "tram": null, "name:zh": null, "proposed:public_transport": null, "proposed:railway": null, "subway": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 121.545372108589348, 31.353622563614053 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Gaoqiao", "name:en": "Gaoqiao", "public_transport": null, "railway": null, "tram": null, "name:zh": null, "proposed:public_transport": null, "proposed:railway": null, "subway": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 121.559362884913654, 31.354790699449186 ] } }
+]
+}

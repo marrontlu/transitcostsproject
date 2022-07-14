@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "montreal-laval-extension-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n437812017", "osm_id": "437812017", "osm_type": "node", "name": "Cartier", "operator": "Société de transport de Montréal", "public_transport": "stop_position", "railway": "stop", "subway": "yes", "wheelchair": "", "alt_name": "", "network": "", "highway": "", "station": "", "wikidata": "", "wikipedia": "", "internet_access": "", "train": "", "toilets:wheelchair": "", "short_name": "", "addr:city": "", "addr:housenumber": "", "addr:street": "", "crossing": "", "tactile_paving": "" }, "geometry": { "type": "Point", "coordinates": [ -73.6820184, 45.559843399999984 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1600467249", "osm_id": "1600467249", "osm_type": "node", "name": "Montmorency", "operator": "Société de transport de Montréal", "public_transport": "stop_position", "railway": "stop", "subway": "yes", "wheelchair": "", "alt_name": "", "network": "", "highway": "", "station": "", "wikidata": "", "wikipedia": "", "internet_access": "", "train": "", "toilets:wheelchair": "", "short_name": "", "addr:city": "", "addr:housenumber": "", "addr:street": "", "crossing": "", "tactile_paving": "" }, "geometry": { "type": "Point", "coordinates": [ -73.7215259, 45.558285599999984 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1611063665", "osm_id": "1611063665", "osm_type": "node", "name": "De la Concorde", "operator": "Société de transport de Montréal", "public_transport": "stop_position", "railway": "stop", "subway": "yes", "wheelchair": "", "alt_name": "", "network": "", "highway": "", "station": "", "wikidata": "", "wikipedia": "", "internet_access": "", "train": "", "toilets:wheelchair": "", "short_name": "", "addr:city": "", "addr:housenumber": "", "addr:street": "", "crossing": "", "tactile_paving": "" }, "geometry": { "type": "Point", "coordinates": [ -73.7095564, 45.5606846 ] } }
+]
+}

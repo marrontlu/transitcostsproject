@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mumbai-line-4a-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "bridge": null, "construction": null, "electrified": null, "gauge": null, "layer": null, "name": null, "railway": null, "tracks": null, "type": null, "usage": null, "voltage": null, "tunnel": "no", "frequency": null, "highspeed": null, "maxspeed": null, "start_date": null, "wikipedia": null }, "geometry": { "type": "LineString", "coordinates": [ [ 72.964640559515985, 19.271419930288499 ], [ 72.963692505890378, 19.272120665576992 ], [ 72.961961277530577, 19.273357257262564 ], [ 72.959859071665093, 19.274964826453811 ], [ 72.958468379367915, 19.276458181376569 ], [ 72.956980563029774, 19.278332765321814 ], [ 72.955797635919495, 19.279844283296054 ], [ 72.955140454191564, 19.281290083097502 ] ] } }
+]
+}

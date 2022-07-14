@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "washington-silver-line-phase-1-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n5351736892", "osm_id": "5351736892", "osm_type": "node", "railway": "stop", "ref": "", "name": "McLean", "network": "Washington Metro", "operator": "Washington Metropolitan Area Transit Authority", "public_transport": "stop_position", "subway": "yes", "railway:signal:direction": "" }, "geometry": { "type": "Point", "coordinates": [ -77.2106508, 38.9243512 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5351728282", "osm_id": "5351728282", "osm_type": "node", "railway": "stop", "ref": "", "name": "Greensboro", "network": "Washington Metro", "operator": "Washington Metropolitan Area Transit Authority", "public_transport": "stop_position", "subway": "yes", "railway:signal:direction": "" }, "geometry": { "type": "Point", "coordinates": [ -77.23444, 38.9216463 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1373189088", "osm_id": "1373189088", "osm_type": "node", "railway": "stop", "ref": "", "name": "East Falls Church", "network": "Washington Metro", "operator": "Washington Metropolitan Area Transit Authority", "public_transport": "stop_position", "subway": "yes", "railway:signal:direction": "" }, "geometry": { "type": "Point", "coordinates": [ -77.1568543, 38.8859303 ] } },
+{ "type": "Feature", "properties": { "full_id": "n4449787073", "osm_id": "4449787073", "osm_type": "node", "railway": "stop", "ref": "", "name": "Tysons Corner", "network": "Washington Metro", "operator": "Washington Metropolitan Area Transit Authority", "public_transport": "stop_position", "subway": "yes", "railway:signal:direction": "" }, "geometry": { "type": "Point", "coordinates": [ -77.221608, 38.9206213 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1842050305", "osm_id": "1842050305", "osm_type": "node", "railway": "stop", "ref": "", "name": "Wiehle–Reston East", "network": "Washington Metro", "operator": "Washington Metropolitan Area Transit Authority", "public_transport": "stop_position", "subway": "yes", "railway:signal:direction": "" }, "geometry": { "type": "Point", "coordinates": [ -77.339486, 38.9474814 ] } },
+{ "type": "Feature", "properties": { "full_id": "n7792201176", "osm_id": "7792201176", "osm_type": "node", "railway": "stop", "ref": "", "name": "Spring Hill", "network": "Washington Metro", "operator": "Washington Metropolitan Area Transit Authority", "public_transport": "stop_position", "subway": "yes", "railway:signal:direction": "" }, "geometry": { "type": "Point", "coordinates": [ -77.2418734, 38.9292851 ] } }
+]
+}

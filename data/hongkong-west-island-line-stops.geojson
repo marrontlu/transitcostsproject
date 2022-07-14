@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "hongkong-west-island-line-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n2569844159", "osm_id": "2569844159", "osm_type": "node", "name": "HKU", "name:en": "HKU", "name:zh": "香港大學", "public_transport": "stop_position", "railway": "stop", "ref": "HKU", "subway": "yes", "construction": "", "network": "", "operator": "", "railway:signal:direction": "", "access": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 114.1355038, 22.2840491 ] } },
+{ "type": "Feature", "properties": { "full_id": "n2561063247", "osm_id": "2561063247", "osm_type": "node", "name": "Sai Ying Pun", "name:en": "Sai Ying Pun", "name:zh": "西營盤", "public_transport": "stop_position", "railway": "stop", "ref": "SYP", "subway": "yes", "construction": "", "network": "", "operator": "", "railway:signal:direction": "", "access": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 114.1429207, 22.2853513 ] } },
+{ "type": "Feature", "properties": { "full_id": "n515677041", "osm_id": "515677041", "osm_type": "node", "name": "Kennedy Town", "name:en": "Kennedy Town", "name:zh": "堅尼地城", "public_transport": "stop_position", "railway": "stop", "ref": "KET", "subway": "yes", "construction": "", "network": "", "operator": "", "railway:signal:direction": "", "access": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 114.1284282, 22.2810725 ] } }
+]
+}

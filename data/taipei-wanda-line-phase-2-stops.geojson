@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "taipei-wanda-line-phase-2-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "highway": null, "name": "Tingliao" }, "geometry": { "type": "Point", "coordinates": [ 121.468075403897132, 24.987928218963777 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "highway": null, "name": "Qingshui" }, "geometry": { "type": "Point", "coordinates": [ 121.455374477031839, 24.982177686480071 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "highway": null, "name": "Tucheng" }, "geometry": { "type": "Point", "coordinates": [ 121.44443160308272, 24.973191984541121 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "highway": null, "name": "Pitang" }, "geometry": { "type": "Point", "coordinates": [ 121.439666107791595, 24.96894895425638 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "highway": null, "name": "Chenglin Bridge" }, "geometry": { "type": "Point", "coordinates": [ 121.438173095856556, 24.974351872576541 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "highway": null, "name": "Xizhou" }, "geometry": { "type": "Point", "coordinates": [ 121.426399079513772, 24.983936213168704 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "highway": null, "name": "Pengfu" }, "geometry": { "type": "Point", "coordinates": [ 121.419487131369976, 24.982146653750466 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "highway": null, "name": "Beinei" }, "geometry": { "type": "Point", "coordinates": [ 121.41553637976773, 24.987672220475744 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "highway": null, "name": "Shulin" }, "geometry": { "type": "Point", "coordinates": [ 121.41979322536001, 24.994737263961081 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "highway": null, "name": "Tandi" }, "geometry": { "type": "Point", "coordinates": [ 121.424226762877737, 25.002086160417527 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "highway": null, "name": "Taipei Motor Vehicles Office" }, "geometry": { "type": "Point", "coordinates": [ 121.41584997326342, 25.008687026016325 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "highway": null, "name": "Sanjiaopu" }, "geometry": { "type": "Point", "coordinates": [ 121.410586330781157, 25.015251731906069 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "highway": null, "name": "Huilong" }, "geometry": { "type": "Point", "coordinates": [ 121.414081622703094, 25.023105514547574 ] } }
+]
+}

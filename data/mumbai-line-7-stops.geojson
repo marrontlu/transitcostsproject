@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "mumbai-line-7-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n5220954732", "osm_id": "5220954732", "osm_type": "node", "construction": "station", "name": "Dahisar (E)", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8692785, 19.2541284 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5220954733", "osm_id": "5220954733", "osm_type": "node", "construction": "station", "name": "Ovaripada", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8643094, 19.2428278 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5220954734", "osm_id": "5220954734", "osm_type": "node", "construction": "station", "name": "National Park", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8633315, 19.2347024 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5220954735", "osm_id": "5220954735", "osm_type": "node", "construction": "station", "name": "Devipada", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8643332, 19.2244067 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5220954736", "osm_id": "5220954736", "osm_type": "node", "construction": "station", "name": "Mahindra & Mahindra", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8631944, 19.2033818 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5220954737", "osm_id": "5220954737", "osm_type": "node", "construction": "station", "name": "Bandongri", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8608314, 19.1985892 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5220954738", "osm_id": "5220954738", "osm_type": "node", "construction": "station", "name": "Pathanwadi", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8582412, 19.1794068 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5220954739", "osm_id": "5220954739", "osm_type": "node", "construction": "station", "name": "Dindoshi", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8589892, 19.171899 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5220954740", "osm_id": "5220954740", "osm_type": "node", "construction": "station", "name": "Aarey", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8585154, 19.1674965 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5220954741", "osm_id": "5220954741", "osm_type": "node", "construction": "station", "name": "New Ashok Nagar", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8573804, 19.1589635 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5220954742", "osm_id": "5220954742", "osm_type": "node", "construction": "station", "name": "Mahanand", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8564084, 19.1516143 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5220954743", "osm_id": "5220954743", "osm_type": "node", "construction": "station", "name": "JVLR Junction", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8550234, 19.1422855 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5220954744", "osm_id": "5220954744", "osm_type": "node", "construction": "station", "name": "Shankarwadi", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8553333, 19.1284834 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5220954766", "osm_id": "5220954766", "osm_type": "node", "construction": "station", "name": "Magathane", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8668905, 19.2169792 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5220954785", "osm_id": "5220954785", "osm_type": "node", "construction": "station", "name": "Pushpa Park", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8583252, 19.1898254 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5220954818", "osm_id": "5220954818", "osm_type": "node", "construction": "station", "name": "Western Express Highway", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8551087, 19.116492 ] } }
+]
+}

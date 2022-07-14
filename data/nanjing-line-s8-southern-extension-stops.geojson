@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "nanjing-line-S8-southern-extension-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Hongyang Square", "name:en": null, "railway": null, "station": null, "highway": null, "construction": null, "subway": null, "public_transport": null }, "geometry": { "type": "Point", "coordinates": [ 118.721907365323545, 32.136136213667641 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Yangtze River Bridge North (Daqiao)", "name:en": null, "railway": null, "station": null, "highway": null, "construction": null, "subway": null, "public_transport": null }, "geometry": { "type": "Point", "coordinates": [ 118.725220523282616, 32.129244590103127 ] } }
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "changchun-line-2-eastern-extension-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "Eastern Transportation Hub", "name:en": "Eastern Transportation Hub", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.437861662956081, 43.884507380477018 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "Sandao Village West", "name:en": "Sandao Village West", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.457005514257801, 43.889419899488914 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "Sandao Village East", "name:en": "Sandao Village East", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.481810526801127, 43.889341470302945 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "Zhaojiagang", "name:en": "Zhaojiagang", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.527149726215612, 43.889291560820944 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "Zhaojiagang East", "name:en": "Zhaojiagang East", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.54706360952504, 43.889320080524925 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "Zhaojiagang West", "name:en": "Zhaojiagang West", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.507424785945076, 43.889312950598914 ] } }
+]
+}

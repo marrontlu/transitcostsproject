@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "sanfrancisco-central-subway-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1111, "name": "Chinatown" }, "geometry": { "type": "Point", "coordinates": [ -122.407991128056977, 37.794974126785426 ] } },
+{ "type": "Feature", "properties": { "id": 1112, "name": "Chinatown" }, "geometry": { "type": "Point", "coordinates": [ -122.40806886170283, 37.794958156073392 ] } },
+{ "type": "Feature", "properties": { "id": 1113, "name": "Union Square\/Market Street" }, "geometry": { "type": "Point", "coordinates": [ -122.406305862614914, 37.786501793496242 ] } },
+{ "type": "Feature", "properties": { "id": 1114, "name": "Union Square\/Market Street" }, "geometry": { "type": "Point", "coordinates": [ -122.406389814952391, 37.786491964239197 ] } },
+{ "type": "Feature", "properties": { "id": 1114, "name": "Yerba Buena\/Moscone" }, "geometry": { "type": "Point", "coordinates": [ -122.401946559755544, 37.782695315933928 ] } },
+{ "type": "Feature", "properties": { "id": 1115, "name": "Yerba Buena\/Moscone" }, "geometry": { "type": "Point", "coordinates": [ -122.402014965363904, 37.782643709661997 ] } },
+{ "type": "Feature", "properties": { "id": 1117, "name": "Fourth Street and Brannan" }, "geometry": { "type": "Point", "coordinates": [ -122.397344727921137, 37.779031181087269 ] } },
+{ "type": "Feature", "properties": { "id": 1118, "name": "Fourth Street and Brannan" }, "geometry": { "type": "Point", "coordinates": [ -122.397400696146136, 37.778967284435055 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "wuhan-line-6-phase-2-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "highway": null, "traffic_signals": null, "name": "Jinyinhu Parking Lot", "railway": null, "name:en": null, "public_transport": null, "station": null, "subway": null, "construction:railway": null, "train": null }, "geometry": { "type": "Point", "coordinates": [ 114.160306022226635, 30.636519796817957 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "highway": null, "traffic_signals": null, "name": "Eryalu", "railway": null, "name:en": null, "public_transport": null, "station": null, "subway": null, "construction:railway": null, "train": null }, "geometry": { "type": "Point", "coordinates": [ 114.144874500493557, 30.634758489867369 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "highway": null, "traffic_signals": null, "name": "Lingonggang", "railway": null, "name:en": null, "public_transport": null, "station": null, "subway": null, "construction:railway": null, "train": null }, "geometry": { "type": "Point", "coordinates": [ 114.131211318957412, 30.63634413925201 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "highway": null, "traffic_signals": null, "name": "Matoutan Park", "railway": null, "name:en": null, "public_transport": null, "station": null, "subway": null, "construction:railway": null, "train": null }, "geometry": { "type": "Point", "coordinates": [ 114.117650902212517, 30.634976368750493 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "highway": null, "traffic_signals": null, "name": "Fuminnanlu", "railway": null, "name:en": null, "public_transport": null, "station": null, "subway": null, "construction:railway": null, "train": null }, "geometry": { "type": "Point", "coordinates": [ 114.100711016042695, 30.635313977993142 ] } }
+]
+}

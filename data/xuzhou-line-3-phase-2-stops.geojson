@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "xuzhou-line-3-phase-2-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n8269092423", "osm_id": "8269092423", "osm_type": "node", "name": "Xugang Hospital", "name:en": "", "public_transport": "station", "railway": "station", "start_date": "", "station": "subway", "subway": "yes", "name:zh": "", "network": "", "access": "", "description": "", "ref": "", "construction:railway": "" }, "geometry": { "type": "Point", "coordinates": [ 117.223361, 34.2899599 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8269092424", "osm_id": "8269092424", "osm_type": "node", "name": "Jinshanqiao Fuzhongxin", "name:en": "", "public_transport": "station", "railway": "station", "start_date": "", "station": "subway", "subway": "yes", "name:zh": "", "network": "", "access": "", "description": "", "ref": "", "construction:railway": "" }, "geometry": { "type": "Point", "coordinates": [ 117.2350191, 34.2952554 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6838446740", "osm_id": "6838446740", "osm_type": "node", "name": "Hou Pantaocun", "name:en": "", "public_transport": "station", "railway": "station", "start_date": "", "station": "subway", "subway": "yes", "name:zh": "", "network": "", "access": "", "description": "", "ref": "", "construction:railway": "" }, "geometry": { "type": "Point", "coordinates": [ 117.2771094, 34.301237 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6838446737", "osm_id": "6838446737", "osm_type": "node", "name": "Pantaoshan", "name:en": "", "public_transport": "station", "railway": "station", "start_date": "", "station": "subway", "subway": "yes", "name:zh": "", "network": "", "access": "", "description": "", "ref": "", "construction:railway": "" }, "geometry": { "type": "Point", "coordinates": [ 117.2658241, 34.3011815 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6838446739", "osm_id": "6838446739", "osm_type": "node", "name": "Tuolanshan Rd", "name:en": "", "public_transport": "station", "railway": "station", "start_date": "", "station": "subway", "subway": "yes", "name:zh": "", "network": "", "access": "", "description": "", "ref": "", "construction:railway": "" }, "geometry": { "type": "Point", "coordinates": [ 117.2425304, 34.3004326 ] } }
+]
+}

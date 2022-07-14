@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "wuhan-line-6-phase-2-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w736833284", "osm_id": "736833284", "osm_type": "way", "bridge": "", "electrified": "", "frequency": "", "gauge": "", "highspeed": "", "layer": "", "railway": "construction", "railway:traffic_mode": "", "usage": "", "voltage": "", "name": "", "embankment": "", "colour": "", "construction": "subway", "end_date": "", "tunnel": "", "name:en": "", "name:zh-Hant": "", "start_date": "", "wikidata": "", "construction:railway": "", "maxspeed": "", "ref": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 114.1709024, 30.6382398 ], [ 114.1652317, 30.6368375 ], [ 114.1613667, 30.6364877 ], [ 114.1542849, 30.636702 ], [ 114.1496313, 30.6357791 ], [ 114.1462714, 30.6350419 ], [ 114.1448817, 30.6347579 ], [ 114.1400423, 30.6351544 ], [ 114.1322445, 30.6362216 ], [ 114.1290414, 30.6366015 ], [ 114.1267341, 30.6366525 ], [ 114.1246199, 30.6365116 ], [ 114.1214373, 30.6359612 ], [ 114.1176491, 30.6349759 ], [ 114.1129343, 30.634601 ], [ 114.1091, 30.634709 ], [ 114.1054635, 30.6347933 ] ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "bridge": null, "electrified": null, "frequency": null, "gauge": null, "highspeed": null, "layer": null, "railway": null, "railway:traffic_mode": null, "usage": null, "voltage": null, "name": null, "embankment": null, "colour": null, "construction": null, "end_date": null, "tunnel": "yes", "name:en": null, "name:zh-Hant": null, "start_date": null, "wikidata": null, "construction:railway": null, "maxspeed": null, "ref": null }, "geometry": { "type": "LineString", "coordinates": [ [ 114.10546350000034, 30.634793299999952 ], [ 114.104736121222274, 30.634838947661173 ], [ 114.098212569359049, 30.635557695672244 ] ] } }
+]
+}

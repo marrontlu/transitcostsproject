@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "changchun-line-9-konggang-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "Zhaojiagang East", "name:en": "Zhaojiagang East", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.54706360952504, 43.889320080524925 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "LIANHUA Mountain North", "name:en": "LIANHUA Mountain North", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.57430728569885, 43.90172940729461 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "DONGHU", "name:en": "DONGHU", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.651546017397905, 43.95237459832201 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "Changchun Longjia International Airport", "name:en": "Changchun Longjia International Airport", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.691774194571607, 43.989192537556349 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "Folklore Museum", "name:en": "Folklore Museum", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.763351299765731, 44.005448005067365 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "ZHONGXIN Square", "name:en": "ZHONGXIN Square", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.778608956916671, 44.007317320678581 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "JIANLAN St.", "name:en": "JIANLAN St.", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.791744688238722, 44.011472758760256 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "railway": null, "access": null, "description": null, "name": "Jiutai South Railway Station", "name:en": "Jiutai South Railway Station", "public_transport": null, "subway": null, "station": null }, "geometry": { "type": "Point", "coordinates": [ 125.802246958040911, 44.020137289228451 ] } }
+]
+}

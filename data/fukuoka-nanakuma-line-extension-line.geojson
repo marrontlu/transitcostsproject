@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fukuoka-nanakuma-line-extension-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w767531455", "osm_id": "767531455", "osm_type": "way", "electrified": "", "frequency": "", "gauge": "", "layer": "-2", "name": "", "oneway": "", "railway": "construction", "ref": "N", "tunnel": "yes", "voltage": "", "KSJ2:LIN": "", "name:en": "", "name:ja": "", "name:ja_rm": null, "name:ko": null, "name:zh": null, "note:ja": "", "source_ref": "", "bridge": null, "operator": "", "operator:en": "", "operator:ja": "", "operator:ja_rm": null, "service": null, "usage": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 130.402878500000014, 33.5888153 ], [ 130.410107399999987, 33.5918818 ], [ 130.4103327, 33.5918907 ], [ 130.410579399999989, 33.591855 ], [ 130.4107672, 33.5917746 ], [ 130.4141629, 33.5898307 ], [ 130.4185429, 33.5896691 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "toronto-scarborough-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "1000", "osm_id": null, "osm_type": null, "electrified": "rail", "frequency": null, "gauge": null, "name": "Scarborough Subway Extension (Line 2 East Extension)\n", "network": null, "railway": "subway", "voltage": null, "operator": null, "wheelchair": null, "wikipedia": null, "layer": "-1", "tunnel": "yes", "bridge": null, "service": null, "construction": null }, "geometry": { "type": "LineString", "coordinates": [ [ -79.258789854690434, 43.789616583096354 ], [ -79.252419601092029, 43.775008674943813 ], [ -79.245437019867438, 43.755519306566534 ], [ -79.245437019867438, 43.755519306566534 ], [ -79.245437019867438, 43.755519306566534 ], [ -79.24495280694137, 43.753534341257371 ], [ -79.245863728833996, 43.746125308307477 ], [ -79.245863728833996, 43.745300083614474 ], [ -79.2468478613185, 43.742970541346068 ], [ -79.247005782516609, 43.742651088551185 ], [ -79.246974198276988, 43.742285997555456 ], [ -79.24772222536447, 43.737105258368025 ], [ -79.248228516698774, 43.736656257225427 ], [ -79.262537487338392, 43.733528535212166 ], [ -79.263677570675043, 43.732477804886479 ] ] } }
+]
+}

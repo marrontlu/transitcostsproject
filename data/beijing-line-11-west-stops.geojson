@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "beijing-line-11-west-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jindingjie", "name_zh": "金顶街" }, "geometry": { "type": "Point", "coordinates": [ 116.149309853905493, 39.932641311321809 ] } },
+{ "type": "Feature", "properties": { "name": "Jin'anqiao", "name_zh": "金安桥" }, "geometry": { "type": "Point", "coordinates": [ 116.15484547429179, 39.921992884136195 ] } },
+{ "type": "Feature", "properties": { "name": "North Xin'an Road", "name_zh": "北辛安路" }, "geometry": { "type": "Point", "coordinates": [ 116.159727097332876, 39.911889228792681 ] } },
+{ "type": "Feature", "properties": { "name": "Shougang", "name_zh": "首钢" }, "geometry": { "type": "Point", "coordinates": [ 116.159867239621164, 39.907208617340856 ] } }
+]
+}

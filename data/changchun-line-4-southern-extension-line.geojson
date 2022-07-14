@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "changchun-line-4-southern-extension-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "bridge": null, "railway": null, "service": null, "layer": null, "name": null, "name:en": null, "colour": null, "construction": null, "electrified": null, "gauge": null, "tunnel": "no", "usage": null }, "geometry": { "type": "LineString", "coordinates": [ [ 125.359775761172372, 43.79203938641573 ], [ 125.359933631762942, 43.776946957957442 ], [ 125.360612475302347, 43.729080594897297 ] ] } }
+]
+}

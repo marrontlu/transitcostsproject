@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "mumbai-line-6-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n5219518738", "osm_id": "5219518738", "osm_type": "node", "construction": "station", "name": "Swami Samarth Nagar", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.8196903, 19.1436412 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5219519274", "osm_id": "5219519274", "osm_type": "node", "construction": "station", "name": "Vikhroli", "railway": "construction", "man_made": "" }, "geometry": { "type": "Point", "coordinates": [ 72.9382831, 19.1241825 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "construction": null, "name": "Adarsh Nagar", "railway": null, "man_made": null }, "geometry": { "type": "Point", "coordinates": [ 72.831937999486058, 19.141899416965998 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "construction": null, "name": "Jogeshwari (West)", "railway": null, "man_made": null }, "geometry": { "type": "Point", "coordinates": [ 72.840989486576376, 19.140170754959069 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "construction": null, "name": "JVLR Junction", "railway": null, "man_made": null }, "geometry": { "type": "Point", "coordinates": [ 72.85343269059959, 19.14010754799752 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "construction": null, "name": "Shyam Nagar", "railway": null, "man_made": null }, "geometry": { "type": "Point", "coordinates": [ 72.862455456695358, 19.13903562463409 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "construction": null, "name": "Mahakali Caves", "railway": null, "man_made": null }, "geometry": { "type": "Point", "coordinates": [ 72.872712927096245, 19.137509927874994 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "construction": null, "name": "SEEPZ Village", "railway": null, "man_made": null }, "geometry": { "type": "Point", "coordinates": [ 72.880065192104027, 19.129483404467244 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "construction": null, "name": "Saki Vihar Road", "railway": null, "man_made": null }, "geometry": { "type": "Point", "coordinates": [ 72.89243969664598, 19.125240963989881 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "construction": null, "name": "Rambaug (Powai)", "railway": null, "man_made": null }, "geometry": { "type": "Point", "coordinates": [ 72.899122235929681, 19.121017601833458 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "construction": null, "name": "Powai Lake", "railway": null, "man_made": null }, "geometry": { "type": "Point", "coordinates": [ 72.907358226808441, 19.120756572327021 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "construction": null, "name": "IIT Powai", "railway": null, "man_made": null }, "geometry": { "type": "Point", "coordinates": [ 72.913597674123892, 19.124168956117849 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "construction": null, "name": "Kanjurmarg (West)", "railway": null, "man_made": null }, "geometry": { "type": "Point", "coordinates": [ 72.925647521657794, 19.125154758282033 ] } }
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "changsha-line-1-north-extension-phase-1-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n3755298848", "osm_id": "3755298848", "osm_type": "node", "name": "Kaifu District Government", "name:en": "Kaifu District Government", "public_transport": "stop_position", "railway": "station", "station": "subway", "subway": "yes", "wikidata": "", "access": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 112.979817, 28.2650149 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Xiangxiucheng", "name:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "wikidata": null, "access": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 112.974332595114831, 28.279763801353674 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Zhounan Middle School", "name:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "wikidata": null, "access": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 112.96313242290357, 28.29880555436991 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Fengcai Road", "name:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "wikidata": null, "access": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 112.953553136110145, 28.314751562263876 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Qingzhuhu Road", "name:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "wikidata": null, "access": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 112.937052230505586, 28.332566699288265 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Caixia Road", "name:en": null, "public_transport": null, "railway": null, "station": null, "subway": null, "wikidata": null, "access": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 112.926304738005612, 28.343825281784824 ] } }
+]
+}

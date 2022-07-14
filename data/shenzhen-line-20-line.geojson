@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "shenzhen-line-20-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w736804182", "osm_id": "736804182", "osm_type": "way", "construction": "subway", "electrified": "", "frequency": "", "name": "深圳地铁20号线", "name:en": "", "railway": "construction", "tunnel": "yes", "voltage": "", "bridge": "", "layer": "", "name:zh": "", "gauge": "", "usage": "", "operator": "", "ref": "20", "opening_date": "", "proposed": "", "subway": "", "highspeed": "", "maxspeed": "", "maxspeed:designed": "", "name:de": "", "name:ja": "", "name:nan": "", "name:zh-Hans": "", "name:zh-Hant": "", "passenger_lines": "", "railway:construction": "", "railway:ctcs": "", "railway:traffic_mode": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 113.7929746, 22.6539581 ], [ 113.7869373, 22.6640933 ], [ 113.7806944, 22.6741112 ], [ 113.7733385, 22.6824809 ], [ 113.772933, 22.6842795 ], [ 113.7735715, 22.6908984 ], [ 113.7720855, 22.7033155 ], [ 113.771042, 22.7094608 ] ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "construction": null, "electrified": null, "frequency": null, "name": null, "name:en": null, "railway": null, "tunnel": "yes", "voltage": null, "bridge": null, "layer": null, "name:zh": null, "gauge": null, "usage": null, "operator": null, "ref": null, "opening_date": null, "proposed": null, "subway": null, "highspeed": null, "maxspeed": null, "maxspeed:designed": null, "name:de": null, "name:ja": null, "name:nan": null, "name:zh-Hans": null, "name:zh-Hant": null, "passenger_lines": null, "railway:construction": null, "railway:ctcs": null, "railway:traffic_mode": null }, "geometry": { "type": "LineString", "coordinates": [ [ 113.771056407546268, 22.709362100089027 ], [ 113.768983936769146, 22.721141227782585 ] ] } }
+]
+}

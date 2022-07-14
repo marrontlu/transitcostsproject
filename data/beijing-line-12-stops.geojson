@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "beijing-line-12-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Changchunqiao", "name_zh": "长春桥" }, "geometry": { "type": "Point", "coordinates": [ 116.288332118601872, 39.957106287526123 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Sijiqing", "name_zh": "四季青" }, "geometry": { "type": "Point", "coordinates": [ 116.269886204972494, 39.950762368135287 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Yuandalu", "name_zh": "远大路" }, "geometry": { "type": "Point", "coordinates": [ 116.278519140980876, 39.955999417140809 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Suzhouqiao", "name_zh": "苏州桥" }, "geometry": { "type": "Point", "coordinates": [ 116.302200311837922, 39.960980367466348 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Renmin University", "name_zh": "人民大学" }, "geometry": { "type": "Point", "coordinates": [ 116.31558461846322, 39.965681174619938 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Dazhongsi", "name_zh": "大钟寺" }, "geometry": { "type": "Point", "coordinates": [ 116.338961515577921, 39.966343119914093 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Jimenqiao", "name_zh": "蓟门桥" }, "geometry": { "type": "Point", "coordinates": [ 116.348548346537513, 39.966497572893822 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Beitaipingzhuang", "name_zh": "北太平庄" }, "geometry": { "type": "Point", "coordinates": [ 116.364008191057934, 39.966806477806436 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Madian", "name_zh": "马甸" }, "geometry": { "type": "Point", "coordinates": [ 116.371838875805707, 39.966938865198841 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Anhuaqiao", "name_zh": "安华桥" }, "geometry": { "type": "Point", "coordinates": [ 116.388421502330374, 39.967269832558202 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Anzhenqiao", "name_zh": "安贞桥" }, "geometry": { "type": "Point", "coordinates": [ 116.401232732891998, 39.967534605292002 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Hepingxiqiao", "name_zh": "和平西桥" }, "geometry": { "type": "Point", "coordinates": [ 116.411769610162878, 39.967733184169383 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Guangximen", "name_zh": "光熙门" }, "geometry": { "type": "Point", "coordinates": [ 116.425386940625003, 39.968020019307204 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Xibahe", "name_zh": "西坝河" }, "geometry": { "type": "Point", "coordinates": [ 116.436154132153206, 39.96426900323781 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Sanyuanqiao", "name_zh": "三元桥" }, "geometry": { "type": "Point", "coordinates": [ 116.451500453378969, 39.959108094375139 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Fangyuanli", "name_zh": "芳园里" }, "geometry": { "type": "Point", "coordinates": [ 116.470423631641623, 39.968610093648856 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Gaojiayuan", "name_zh": "高家园" }, "geometry": { "type": "Point", "coordinates": [ 116.483627264062903, 39.978996657841058 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Jiuxianqiao", "name_zh": "酒仙桥" }, "geometry": { "type": "Point", "coordinates": [ 116.497758801527681, 39.979060767532978 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Beigangzi", "name_zh": "北岗子" }, "geometry": { "type": "Point", "coordinates": [ 116.531680576066108, 39.97505088194908 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Dongfeng", "name_zh": "东风" }, "geometry": { "type": "Point", "coordinates": [ 116.545842536646916, 39.975120823830061 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "name": "Guanzhuanglu Xikou", "name_zh": "管庄路西口" }, "geometry": { "type": "Point", "coordinates": [ 116.564735291793468, 39.975995091302842 ] } }
+]
+}

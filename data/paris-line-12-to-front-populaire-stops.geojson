@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "paris-line-12-to-front-populaire-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n2075532859", "osm_id": "2075532859", "osm_type": "node", "STIF:zone": "", "addr:city": "", "addr:postcode": "", "addr:street": "", "name": "Front Populaire", "network": "", "operator": "", "railway": "stop", "ref:FR:RATP": "", "ref:FR:uic8": "", "type:RATP": "", "uic_ref": "", "wheelchair": "", "wikidata": "Q56859353", "wikipedia": "", "construction": "", "official_name": "", "opening_date": "", "ref:FR:STIF": "", "highway": "", "light_rail": "", "public_transport": "stop_position", "uic_name": "", "station": "", "subway": "yes", "construction:public_transport": "", "train": "", "layer": "", "name:ru": "", "ref:FR:FANTOIR": "", "proposed:name": "", "proposed:public_transport": "", "proposed:railway": "", "proposed:subway": "", "ref:SNCF": "", "internet_access": "", "ref": "", "ref:SNCF:Transilien": "", "tactile_paving": "", "crossing:barrier": "", "construction:railway": "", "end_date": "", "start_date": "", "construction:station": "", "location": "", "description": "", "tram": "", "noexit": "", "crossing": "" }, "geometry": { "type": "Point", "coordinates": [ 2.3659163, 48.9065634 ] } }
+]
+}

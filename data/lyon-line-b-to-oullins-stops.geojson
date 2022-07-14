@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "lyon-line-b-to-oullins-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n3351610292", "osm_id": "3351610292", "osm_type": "node", "name": "Gare d'Oullins", "network": "TCL", "public_transport": "stop_position", "railway": "stop", "ref": "", "subway": "yes", "wheelchair": "yes", "wikidata": "Q5854748", "wikipedia": "fr:Gare d'Oullins (métro de Lyon)", "alt_name": "", "station": "", "level": "", "highway": "", "ref:FR:TCL": "", "crossing": "", "crossing:island": "", "crossing_ref": "", "cycleway": "", "kerb": "", "supervised": "", "tactile_paving": "", "operator": "", "train": "", "traffic_signals": "", "traffic_signals:direction": "" }, "geometry": { "type": "Point", "coordinates": [ 4.8145276, 45.7167014 ] } },
+{ "type": "Feature", "properties": { "full_id": "n376027344", "osm_id": "376027344", "osm_type": "node", "name": "Gare d'Oullins", "network": "TCL", "public_transport": "stop_position", "railway": "stop", "ref": "", "subway": "yes", "wheelchair": "yes", "wikidata": "Q5854748", "wikipedia": "fr:Gare d'Oullins (métro de Lyon)", "alt_name": "", "station": "", "level": "", "highway": "", "ref:FR:TCL": "", "crossing": "", "crossing:island": "", "crossing_ref": "", "cycleway": "", "kerb": "", "supervised": "", "tactile_paving": "", "operator": "", "train": "", "traffic_signals": "", "traffic_signals:direction": "" }, "geometry": { "type": "Point", "coordinates": [ 4.8145298, 45.7166744 ] } }
+]
+}

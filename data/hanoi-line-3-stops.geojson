@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "hanoi-line-3-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n8234749161", "osm_id": "8234749161", "osm_type": "node", "railway": "stop", "name": "Hanoi Station", "public_transport": "stop_position", "ref": "12", "subway": "yes" }, "geometry": { "type": "Point", "coordinates": [ 105.8422993, 21.0239192 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8234749167", "osm_id": "8234749167", "osm_type": "node", "railway": "stop", "name": "Kim Ma", "public_transport": "stop_position", "ref": "9", "subway": "yes" }, "geometry": { "type": "Point", "coordinates": [ 105.814172, 21.0304813 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8234749163", "osm_id": "8234749163", "osm_type": "node", "railway": "stop", "name": "Van Mieu", "public_transport": "stop_position", "ref": "11", "subway": "yes" }, "geometry": { "type": "Point", "coordinates": [ 105.8366165, 21.0267146 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8234749165", "osm_id": "8234749165", "osm_type": "node", "railway": "stop", "name": "Cat Linh", "public_transport": "stop_position", "ref": "10", "subway": "yes" }, "geometry": { "type": "Point", "coordinates": [ 105.8287822, 21.0292789 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8124813843", "osm_id": "8124813843", "osm_type": "node", "railway": "stop", "name": "Nhon", "public_transport": "stop_position", "ref": "", "subway": "yes" }, "geometry": { "type": "Point", "coordinates": [ 105.735244, 21.0526112 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8124813861", "osm_id": "8124813861", "osm_type": "node", "railway": "stop", "name": "Cau Dien", "public_transport": "stop_position", "ref": "4", "subway": "yes" }, "geometry": { "type": "Point", "coordinates": [ 105.7627014, 21.0412487 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8124813867", "osm_id": "8124813867", "osm_type": "node", "railway": "stop", "name": "Le Duc Tho", "public_transport": "stop_position", "ref": "5", "subway": "yes" }, "geometry": { "type": "Point", "coordinates": [ 105.7729948, 21.0380658 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8124813849", "osm_id": "8124813849", "osm_type": "node", "railway": "stop", "name": "Minh Khai", "public_transport": "stop_position", "ref": "2", "subway": "yes" }, "geometry": { "type": "Point", "coordinates": [ 105.7448103, 21.0479936 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8124813855", "osm_id": "8124813855", "osm_type": "node", "railway": "stop", "name": "Phu Dien", "public_transport": "stop_position", "ref": "3", "subway": "yes" }, "geometry": { "type": "Point", "coordinates": [ 105.7552804, 21.0439453 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8124813885", "osm_id": "8124813885", "osm_type": "node", "railway": "stop", "name": "Cau Giay", "public_transport": "stop_position", "ref": "8", "subway": "yes" }, "geometry": { "type": "Point", "coordinates": [ 105.8034624, 21.0291974 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8124813873", "osm_id": "8124813873", "osm_type": "node", "railway": "stop", "name": "Hanoi National University", "public_transport": "stop_position", "ref": "6", "subway": "yes" }, "geometry": { "type": "Point", "coordinates": [ 105.7826932, 21.0366879 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8124813879", "osm_id": "8124813879", "osm_type": "node", "railway": "stop", "name": "Chua Ha", "public_transport": "stop_position", "ref": "7", "subway": "yes" }, "geometry": { "type": "Point", "coordinates": [ 105.7943828, 21.0349526 ] } }
+]
+}

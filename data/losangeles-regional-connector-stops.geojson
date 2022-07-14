@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "losangeles-regional-connector-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n6215061050", "osm_id": "6215061050", "osm_type": "node", "railway": "", "highway": "", "traffic_signals": "", "light_rail": "", "location": "", "name": "Little Tokyo\/Arts District", "network": "", "operator": "", "public_transport": "", "station": "", "subway": "", "wikidata": "", "construction:railway": "station", "construction": "" }, "geometry": { "type": "Point", "coordinates": [ -118.239084, 34.0488101 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6219631004", "osm_id": "6219631004", "osm_type": "node", "railway": "station", "highway": "", "traffic_signals": "", "light_rail": "yes", "location": "", "name": "Historic Broadway", "network": "", "operator": "Los Angeles County Metropolitan Transportation Authority", "public_transport": "station", "station": "light_rail", "subway": "", "wikidata": "", "construction:railway": "", "construction": "" }, "geometry": { "type": "Point", "coordinates": [ -118.2462012, 34.052127 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6215061051", "osm_id": "6215061051", "osm_type": "node", "railway": "", "highway": "", "traffic_signals": "", "light_rail": "", "location": "", "name": "Grand Av Arts\/Bunker Hill", "network": "", "operator": "", "public_transport": "", "station": "", "subway": "", "wikidata": "", "construction:railway": "station", "construction": "" }, "geometry": { "type": "Point", "coordinates": [ -118.2504764, 34.0548728 ] } }
+]
+}

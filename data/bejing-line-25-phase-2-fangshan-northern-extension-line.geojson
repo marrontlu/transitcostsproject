@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bejing-line-25-phase-2-fangshan-northern-extension-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w736844593", "osm_id": "736844593", "osm_type": "way", "bridge": "", "construction": "subway", "electrified": "rail", "frequency": "", "gauge": "1435", "highspeed": "", "layer": "-1", "passenger_lines": "", "railway": "construction", "voltage": "", "maxspeed": "", "name": "北京地铁房山线北延", "opening_date": "2020-12-30", "railway:traffic_mode": "", "tunnel": "yes", "usage": "", "name:en": "", "ref": "", "name:zh": "", "name:zh-Hans": "", "name:zh-Hant": "", "service": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 116.2963998, 39.8160784 ], [ 116.2969798, 39.816903 ], [ 116.2979448, 39.8174877 ], [ 116.2992587, 39.8178911 ], [ 116.301778, 39.8183038 ], [ 116.3052595, 39.8184851 ], [ 116.3086454, 39.818206 ], [ 116.3127095, 39.8177455 ], [ 116.3141723, 39.8179273 ], [ 116.3153131, 39.8185461 ], [ 116.3156244, 39.8195904 ], [ 116.315509, 39.8205824 ], [ 116.3148332, 39.8217896 ], [ 116.3142788, 39.8233231 ], [ 116.3140392, 39.8244882 ], [ 116.313939, 39.8263652 ], [ 116.3140428, 39.8274724 ], [ 116.3139786, 39.8335693 ], [ 116.3139966, 39.8437357 ], [ 116.3149201, 39.847125 ], [ 116.3153774, 39.8491797 ], [ 116.3159044, 39.850623 ], [ 116.3162569, 39.8518621 ], [ 116.3172545, 39.8558662 ] ] } }
+]
+}

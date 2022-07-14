@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "roma-line-c-section-t3-stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n297376921", "osm_id": "297376921", "osm_type": "node", "odbl": "", "name": "Colosseo", "public_transport": "station", "railway": "station", "ref": "", "subway": "yes", "wikidata": "Q15644997", "wikipedia": "it:Fori Imperiali\/Colosseo", "bicycle": "no", "bicycle:conditional": "yes @ Mo-Th 20:00-23:30; Fr 20:00-24:00; Sa 00:00-01:30, 05:30-24:00; Su 00:00-01:30, 05:30-23:30; PH 05:30-23:30", "network": "ATAC", "operator": "ATAC", "platforms": "2", "station": "subway", "wheelchair": "yes", "start_date": "", "old_name": "", "alt_name": "", "layer": "", "train": "", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 12.491418501340361, 41.891238233083016 ] } },
+{ "type": "Feature", "properties": { "full_id": "100", "osm_id": null, "osm_type": null, "odbl": null, "name": "Giorgio Marincola", "public_transport": null, "railway": null, "ref": null, "subway": null, "wikidata": null, "wikipedia": null, "bicycle": null, "bicycle:conditional": null, "network": null, "operator": null, "platforms": null, "station": null, "wheelchair": null, "start_date": null, "old_name": null, "alt_name": null, "layer": null, "train": null, "description": null }, "geometry": { "type": "Point", "coordinates": [ 12.502891958969414, 41.882711470033456 ] } }
+]
+}
