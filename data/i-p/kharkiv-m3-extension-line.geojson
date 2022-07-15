@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kharkiv-m3-extension-line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "101", "osm_id": null, "osm_type": null, "layer": null, "railway": null, "tunnel": "yes", "bridge": null, "electrified": null, "frequency": null, "gauge": null, "passenger_lines": null, "usage": null, "voltage": null, "name": "M3 extension phase 1", "name:en": null, "name:ru": null, "maxspeed": null, "railway:traffic_mode": null, "service": null, "name:uk": null, "ref": null, "cutting": null, "covered": null, "wikidata": null, "oneway": null, "bench": null, "public_transport": null, "shelter": null, "train": null, "wheelchair": null, "subway": null, "railway:bidirectional": null, "embankment": null, "freight": null, "tracks": null, "barrier": null, "tram": null, "disused:usage": null, "height": null, "operator": null, "access": null, "disused:railway": null, "highway": null, "hidden": null, "surface": null, "embedded_rails": null, "embedded_rails:lanes": null, "lanes": null, "name:pl": null, "smoothness": null }, "geometry": { "type": "LineString", "coordinates": [ [ 36.262449229920932, 49.978195771762792 ], [ 36.258784383637355, 49.970294132387359 ], [ 36.260051597286427, 49.946340324860209 ] ] } }
+]
+}
